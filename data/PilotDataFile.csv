@@ -1,0 +1,1012 @@
+﻿blockcode,blocknum,trialnum,trialcode,sound.monosylsound.currentitem,response,latency,subject
+consent,1,1,consent,Ba sound recording.wav,57,5167,1
+myblock,2,1,mytrial,Ba sound recording.wav,57,2949,1
+myblock,2,2,mytrial,Ba sound recording.wav,57,3166,1
+myblock,2,3,mytrial,Ba sound recording.wav,57,3175,1
+Practice,3,1,calibration,Ba sound recording.wav,57,3405,1
+Practice,3,2,Practicetrial,Ba sound recording.wav,57,2733,1
+Practice,3,3,Practicetrial,Ba sound recording.wav,57,2239,1
+Practice,3,4,Practicetrial,Ba sound recording.wav,57,1605,1
+Practice,3,5,Practicetrial,Ba sound recording.wav,57,2532,1
+Practice,3,6,Practicetrial,Ba sound recording.wav,57,1774,1
+Practice,3,7,Practicetrial,Ba sound recording.wav,57,1766,1
+Practice,3,8,Practicetrial,Ba sound recording.wav,57,1368,1
+Practice,3,9,Practicetrial,Ba sound recording.wav,57,1623,1
+Practice,3,10,Practicetrial,Ba sound recording.wav,57,1142,1
+Practice,3,11,Practicetrial,Ba sound recording.wav,57,984,1
+Practice,3,12,Practicetrial,Ba sound recording.wav,57,1776,1
+Practice,3,13,Practicetrial,Ba sound recording.wav,57,4008,1
+Practice,3,14,PracticeReady,Ba sound recording.wav,57,3587,1
+Practice,3,15,PracticeRun,Ba sound recording.wav,sevenbutton,4666,1
+Practice,3,16,centremouse,Ba sound recording.wav,centrebutton,2220,1
+Practice,3,17,PracticeRun,Ba sound recording.wav,onebutton,1827,1
+Practice,3,18,centremouse,Ba sound recording.wav,centrebutton,1046,1
+Practice,3,19,Finishedpracticerun,Ba sound recording.wav,57,1856,1
+InitialMonosyllabicSounds,4,1,catchtrial,Ba sound recording.wav,fivebutton,9982,1
+InitialMonosyllabicSounds,4,2,centremouse,Ba sound recording.wav,centrebutton,820,1
+InitialMonosyllabicSounds,4,3,Gabackwardsound,Da sound recording.wav,zerobutton,916,1
+InitialMonosyllabicSounds,4,4,centremouse,Da sound recording.wav,centrebutton,540,1
+InitialMonosyllabicSounds,4,5,Basound,Ba sound recording.wav,sevenbutton,1726,1
+InitialMonosyllabicSounds,4,6,centremouse,Ba sound recording.wav,centrebutton,492,1
+InitialMonosyllabicSounds,4,7,Babackwardsound,Ba sound recording.wav,fivebutton,3706,1
+InitialMonosyllabicSounds,4,8,centremouse,Ba sound recording.wav,centrebutton,449,1
+InitialMonosyllabicSounds,4,9,Gasound,Pa backward.wav,fivebutton,2739,1
+InitialMonosyllabicSounds,4,10,centremouse,Pa backward.wav,centrebutton,510,1
+InitialMonosyllabicSounds,4,11,Tabackwardsound,Ka backward.wav,onebutton,1934,1
+InitialMonosyllabicSounds,4,12,centremouse,Ka backward.wav,centrebutton,399,1
+InitialMonosyllabicSounds,4,13,Kasound,Ga backward.wav,fourbutton,1732,1
+InitialMonosyllabicSounds,4,14,centremouse,Ga backward.wav,centrebutton,752,1
+InitialMonosyllabicSounds,4,15,catchtrial,Ga backward.wav,onebutton,2250,1
+InitialMonosyllabicSounds,4,16,centremouse,Ga backward.wav,centrebutton,590,1
+InitialMonosyllabicSounds,4,17,Gasound,Da backward.wav,sixbutton,3058,1
+InitialMonosyllabicSounds,4,18,centremouse,Da backward.wav,centrebutton,451,1
+InitialMonosyllabicSounds,4,19,Dasound,Ba sound recording.wav,threebutton,1205,1
+InitialMonosyllabicSounds,4,20,centremouse,Ba sound recording.wav,centrebutton,430,1
+InitialMonosyllabicSounds,4,21,catchtrial,Ba sound recording.wav,zerobutton,1637,1
+InitialMonosyllabicSounds,4,22,centremouse,Ba sound recording.wav,centrebutton,418,1
+InitialMonosyllabicSounds,4,23,Gabackwardsound,Ta sound recording.wav,sixbutton,3311,1
+InitialMonosyllabicSounds,4,24,centremouse,Ta sound recording.wav,centrebutton,401,1
+InitialMonosyllabicSounds,4,25,Kasound,Da backward.wav,fivebutton,2321,1
+InitialMonosyllabicSounds,4,26,centremouse,Da backward.wav,centrebutton,417,1
+InitialMonosyllabicSounds,4,27,catchtrial,Da backward.wav,twobutton,1567,1
+InitialMonosyllabicSounds,4,28,centremouse,Da backward.wav,centrebutton,439,1
+InitialMonosyllabicSounds,4,29,Dabackwardsound,Ka sound recording.wav,fivebutton,1798,1
+InitialMonosyllabicSounds,4,30,centremouse,Ka sound recording.wav,centrebutton,420,1
+InitialMonosyllabicSounds,4,31,Kabackwardsound,Da sound recording.wav,fivebutton,916,1
+InitialMonosyllabicSounds,4,32,centremouse,Da sound recording.wav,centrebutton,499,1
+InitialMonosyllabicSounds,4,33,Gasound,Pa sound recording.wav,threebutton,2131,1
+InitialMonosyllabicSounds,4,34,centremouse,Pa sound recording.wav,centrebutton,687,1
+InitialMonosyllabicSounds,4,35,Pasound,Pa sound recording.wav,onebutton,432,1
+InitialMonosyllabicSounds,4,36,centremouse,Pa sound recording.wav,centrebutton,1079,1
+InitialMonosyllabicSounds,4,37,Dabackwardsound,Ta backward.wav,zerobutton,592,1
+InitialMonosyllabicSounds,4,38,centremouse,Ta backward.wav,centrebutton,531,1
+InitialMonosyllabicSounds,4,39,Kabackwardsound,Ka sound recording.wav,fivebutton,853,1
+InitialMonosyllabicSounds,4,40,centremouse,Ka sound recording.wav,centrebutton,424,1
+InitialMonosyllabicSounds,4,41,Dasound,Pa sound recording.wav,threebutton,924,1
+InitialMonosyllabicSounds,4,42,centremouse,Pa sound recording.wav,centrebutton,521,1
+InitialMonosyllabicSounds,4,43,Dabackwardsound,Da backward.wav,zerobutton,321,1
+InitialMonosyllabicSounds,4,44,centremouse,Da backward.wav,centrebutton,830,1
+InitialMonosyllabicSounds,4,45,Tasound,Ga sound recording.wav,twobutton,917,1
+InitialMonosyllabicSounds,4,46,centremouse,Ga sound recording.wav,centrebutton,803,1
+InitialMonosyllabicSounds,4,47,Gabackwardsound,Ba sound recording.wav,sevenbutton,1183,1
+InitialMonosyllabicSounds,4,48,centremouse,Ba sound recording.wav,centrebutton,489,1
+InitialMonosyllabicSounds,4,49,catchtrial,Ba sound recording.wav,sevenbutton,2499,1
+InitialMonosyllabicSounds,4,50,centremouse,Ba sound recording.wav,centrebutton,350,1
+InitialMonosyllabicSounds,4,51,Gasound,Ga sound recording.wav,zerobutton,360,1
+InitialMonosyllabicSounds,4,52,centremouse,Ga sound recording.wav,centrebutton,413,1
+InitialMonosyllabicSounds,4,53,Pabackwardsound,Ba backward.wav,zerobutton,168,1
+InitialMonosyllabicSounds,4,54,centremouse,Ba backward.wav,centrebutton,364,1
+InitialMonosyllabicSounds,4,55,Babackwardsound,Ka backward.wav,onebutton,964,1
+InitialMonosyllabicSounds,4,56,centremouse,Ka backward.wav,centrebutton,355,1
+InitialMonosyllabicSounds,4,57,Pabackwardsound,Ga backward.wav,onebutton,2116,1
+InitialMonosyllabicSounds,4,58,centremouse,Ga backward.wav,centrebutton,519,1
+InitialMonosyllabicSounds,4,59,Pasound,Ta sound recording.wav,zerobutton,140,1
+InitialMonosyllabicSounds,4,60,centremouse,Ta sound recording.wav,centrebutton,377,1
+InitialMonosyllabicSounds,4,61,Kasound,Ba backward.wav,fivebutton,2904,1
+InitialMonosyllabicSounds,4,62,centremouse,Ba backward.wav,centrebutton,325,1
+InitialMonosyllabicSounds,4,63,Gasound,Ga backward.wav,sevenbutton,1307,1
+InitialMonosyllabicSounds,4,64,centremouse,Ga backward.wav,centrebutton,495,1
+InitialMonosyllabicSounds,4,65,Basound,Da backward.wav,sevenbutton,1405,1
+InitialMonosyllabicSounds,4,66,centremouse,Da backward.wav,centrebutton,542,1
+InitialMonosyllabicSounds,4,67,Basound,Pa sound recording.wav,threebutton,1361,1
+InitialMonosyllabicSounds,4,68,centremouse,Pa sound recording.wav,centrebutton,687,1
+InitialMonosyllabicSounds,4,69,Kasound,Ka backward.wav,fivebutton,776,1
+InitialMonosyllabicSounds,4,70,centremouse,Ka backward.wav,centrebutton,361,1
+InitialMonosyllabicSounds,4,71,Kabackwardsound,Ka backward.wav,zerobutton,438,1
+InitialMonosyllabicSounds,4,72,centremouse,Ka backward.wav,centrebutton,437,1
+InitialMonosyllabicSounds,4,73,Tabackwardsound,Ga backward.wav,zerobutton,264,1
+InitialMonosyllabicSounds,4,74,centremouse,Ga backward.wav,centrebutton,445,1
+InitialMonosyllabicSounds,4,75,Tabackwardsound,Ta sound recording.wav,sixbutton,973,1
+InitialMonosyllabicSounds,4,76,centremouse,Ta sound recording.wav,centrebutton,544,1
+InitialMonosyllabicSounds,4,77,Gabackwardsound,Ka sound recording.wav,sevenbutton,1198,1
+InitialMonosyllabicSounds,4,78,centremouse,Ka sound recording.wav,centrebutton,422,1
+InitialMonosyllabicSounds,4,79,Pasound,Ba backward.wav,fivebutton,803,1
+InitialMonosyllabicSounds,4,80,centremouse,Ba backward.wav,centrebutton,771,1
+InitialMonosyllabicSounds,4,81,catchtrial,Ba backward.wav,fourbutton,1644,1
+InitialMonosyllabicSounds,4,82,centremouse,Ba backward.wav,centrebutton,432,1
+InitialMonosyllabicSounds,4,83,Basound,Ta backward.wav,fivebutton,2398,1
+InitialMonosyllabicSounds,4,84,centremouse,Ta backward.wav,centrebutton,2483,1
+InitialMonosyllabicSounds,4,85,Babackwardsound,Ba backward.wav,zerobutton,928,1
+InitialMonosyllabicSounds,4,86,centremouse,Ba backward.wav,centrebutton,382,1
+InitialMonosyllabicSounds,4,87,Kabackwardsound,Da backward.wav,twobutton,2095,1
+InitialMonosyllabicSounds,4,88,centremouse,Da backward.wav,centrebutton,367,1
+InitialMonosyllabicSounds,4,89,Gabackwardsound,Ga sound recording.wav,sixbutton,789,1
+InitialMonosyllabicSounds,4,90,centremouse,Ga sound recording.wav,centrebutton,493,1
+InitialMonosyllabicSounds,4,91,Dasound,Ka backward.wav,threebutton,1845,1
+InitialMonosyllabicSounds,4,92,centremouse,Ka backward.wav,centrebutton,399,1
+InitialMonosyllabicSounds,4,93,Tabackwardsound,Ga sound recording.wav,sevenbutton,2406,1
+InitialMonosyllabicSounds,4,94,centremouse,Ga sound recording.wav,centrebutton,659,1
+InitialMonosyllabicSounds,4,95,Babackwardsound,Da sound recording.wav,sevenbutton,2276,1
+InitialMonosyllabicSounds,4,96,centremouse,Da sound recording.wav,centrebutton,417,1
+InitialMonosyllabicSounds,4,97,Kabackwardsound,Pa backward.wav,zerobutton,563,1
+InitialMonosyllabicSounds,4,98,centremouse,Pa backward.wav,centrebutton,374,1
+InitialMonosyllabicSounds,4,99,Babackwardsound,Ta backward.wav,zerobutton,1169,1
+InitialMonosyllabicSounds,4,100,centremouse,Ta backward.wav,centrebutton,365,1
+InitialMonosyllabicSounds,4,101,Dasound,Da sound recording.wav,zerobutton,341,1
+InitialMonosyllabicSounds,4,102,centremouse,Da sound recording.wav,centrebutton,392,1
+InitialMonosyllabicSounds,4,103,Kasound,Pa backward.wav,sixbutton,6573,1
+InitialMonosyllabicSounds,4,104,centremouse,Pa backward.wav,centrebutton,502,1
+InitialMonosyllabicSounds,4,105,Gasound,Ba backward.wav,sevenbutton,654,1
+InitialMonosyllabicSounds,4,106,centremouse,Ba backward.wav,centrebutton,428,1
+InitialMonosyllabicSounds,4,107,Pasound,Ga sound recording.wav,onebutton,1681,1
+InitialMonosyllabicSounds,4,108,centremouse,Ga sound recording.wav,centrebutton,437,1
+InitialMonosyllabicSounds,4,109,Pabackwardsound,Da backward.wav,zerobutton,953,1
+InitialMonosyllabicSounds,4,110,centremouse,Da backward.wav,centrebutton,508,1
+InitialMonosyllabicSounds,4,111,Basound,Pa backward.wav,fourbutton,2032,1
+InitialMonosyllabicSounds,4,112,centremouse,Pa backward.wav,centrebutton,498,1
+InitialMonosyllabicSounds,4,113,Babackwardsound,Ga backward.wav,zerobutton,1199,1
+InitialMonosyllabicSounds,4,114,centremouse,Ga backward.wav,centrebutton,506,1
+InitialMonosyllabicSounds,4,115,Pabackwardsound,Ta backward.wav,zerobutton,50,1
+InitialMonosyllabicSounds,4,116,centremouse,Ta backward.wav,centrebutton,789,1
+InitialMonosyllabicSounds,4,117,Kasound,Ta backward.wav,sevenbutton,2906,1
+InitialMonosyllabicSounds,4,118,centremouse,Ta backward.wav,centrebutton,406,1
+InitialMonosyllabicSounds,4,119,Babackwardsound,Ka sound recording.wav,sevenbutton,1678,1
+InitialMonosyllabicSounds,4,120,centremouse,Ka sound recording.wav,centrebutton,758,1
+InitialMonosyllabicSounds,4,121,Kabackwardsound,Ba backward.wav,onebutton,1481,1
+InitialMonosyllabicSounds,4,122,centremouse,Ba backward.wav,centrebutton,377,1
+InitialMonosyllabicSounds,4,123,Tasound,Ba sound recording.wav,threebutton,1635,1
+InitialMonosyllabicSounds,4,124,centremouse,Ba sound recording.wav,centrebutton,478,1
+InitialMonosyllabicSounds,4,125,Babackwardsound,Da backward.wav,twobutton,1654,1
+InitialMonosyllabicSounds,4,126,centremouse,Da backward.wav,centrebutton,717,1
+InitialMonosyllabicSounds,4,127,Kabackwardsound,Ta sound recording.wav,sixbutton,1336,1
+InitialMonosyllabicSounds,4,128,centremouse,Ta sound recording.wav,centrebutton,1520,1
+InitialMonosyllabicSounds,4,129,Basound,Ba backward.wav,sevenbutton,2247,1
+InitialMonosyllabicSounds,4,130,centremouse,Ba backward.wav,centrebutton,838,1
+InitialMonosyllabicSounds,4,131,Pasound,Ta backward.wav,fivebutton,999,1
+InitialMonosyllabicSounds,4,132,centremouse,Ta backward.wav,centrebutton,1113,1
+InitialMonosyllabicSounds,4,133,Basound,Ta sound recording.wav,fourbutton,2277,1
+InitialMonosyllabicSounds,4,134,centremouse,Ta sound recording.wav,centrebutton,2246,1
+InitialMonosyllabicSounds,4,135,Dasound,Ta sound recording.wav,twobutton,1114,1
+InitialMonosyllabicSounds,4,136,centremouse,Ta sound recording.wav,centrebutton,632,1
+InitialMonosyllabicSounds,4,137,Dabackwardsound,Ba sound recording.wav,sevenbutton,2337,1
+InitialMonosyllabicSounds,4,138,centremouse,Ba sound recording.wav,centrebutton,688,1
+InitialMonosyllabicSounds,4,139,Dasound,Ba backward.wav,sevenbutton,722,1
+InitialMonosyllabicSounds,4,140,centremouse,Ba backward.wav,centrebutton,550,1
+InitialMonosyllabicSounds,4,141,Kabackwardsound,Ga backward.wav,zerobutton,854,1
+InitialMonosyllabicSounds,4,142,centremouse,Ga backward.wav,centrebutton,475,1
+InitialMonosyllabicSounds,4,143,Pabackwardsound,Ka backward.wav,zerobutton,1294,1
+InitialMonosyllabicSounds,4,144,centremouse,Ka backward.wav,centrebutton,850,1
+InitialMonosyllabicSounds,4,145,Pabackwardsound,Ka sound recording.wav,sixbutton,1279,1
+InitialMonosyllabicSounds,4,146,centremouse,Ka sound recording.wav,centrebutton,370,1
+InitialMonosyllabicSounds,4,147,Pasound,Ba sound recording.wav,threebutton,1459,1
+InitialMonosyllabicSounds,4,148,centremouse,Ba sound recording.wav,centrebutton,333,1
+InitialMonosyllabicSounds,4,149,Pabackwardsound,Ta sound recording.wav,sevenbutton,1045,1
+InitialMonosyllabicSounds,4,150,centremouse,Ta sound recording.wav,centrebutton,427,1
+InitialMonosyllabicSounds,4,151,Pabackwardsound,Da sound recording.wav,sevenbutton,1344,1
+InitialMonosyllabicSounds,4,152,centremouse,Da sound recording.wav,centrebutton,490,1
+InitialMonosyllabicSounds,4,153,Dabackwardsound,Ga sound recording.wav,sevenbutton,639,1
+InitialMonosyllabicSounds,4,154,centremouse,Ga sound recording.wav,centrebutton,419,1
+InitialMonosyllabicSounds,4,155,Babackwardsound,Pa sound recording.wav,sevenbutton,900,1
+InitialMonosyllabicSounds,4,156,centremouse,Pa sound recording.wav,centrebutton,411,1
+InitialMonosyllabicSounds,4,157,Kabackwardsound,Pa sound recording.wav,sevenbutton,786,1
+InitialMonosyllabicSounds,4,158,centremouse,Pa sound recording.wav,centrebutton,423,1
+InitialMonosyllabicSounds,4,159,Dabackwardsound,Ga backward.wav,zerobutton,592,1
+InitialMonosyllabicSounds,4,160,centremouse,Ga backward.wav,centrebutton,837,1
+InitialMonosyllabicSounds,4,161,Dabackwardsound,Ka backward.wav,zerobutton,392,1
+InitialMonosyllabicSounds,4,162,centremouse,Ka backward.wav,centrebutton,819,1
+InitialMonosyllabicSounds,4,163,Dabackwardsound,Ta sound recording.wav,sevenbutton,1835,1
+InitialMonosyllabicSounds,4,164,centremouse,Ta sound recording.wav,centrebutton,423,1
+InitialMonosyllabicSounds,4,165,Kasound,Ka sound recording.wav,zerobutton,247,1
+InitialMonosyllabicSounds,4,166,centremouse,Ka sound recording.wav,centrebutton,496,1
+InitialMonosyllabicSounds,4,167,Kabackwardsound,Ta backward.wav,zerobutton,318,1
+InitialMonosyllabicSounds,4,168,centremouse,Ta backward.wav,centrebutton,372,1
+InitialMonosyllabicSounds,4,169,Tabackwardsound,Da sound recording.wav,sixbutton,695,1
+InitialMonosyllabicSounds,4,170,centremouse,Da sound recording.wav,centrebutton,702,1
+InitialMonosyllabicSounds,4,171,Tasound,Ba backward.wav,sevenbutton,690,1
+InitialMonosyllabicSounds,4,172,centremouse,Ba backward.wav,centrebutton,338,1
+InitialMonosyllabicSounds,4,173,Tabackwardsound,Pa sound recording.wav,sevenbutton,5726,1
+InitialMonosyllabicSounds,4,174,centremouse,Pa sound recording.wav,centrebutton,13315,1
+InitialMonosyllabicSounds,4,175,Dabackwardsound,Pa sound recording.wav,fivebutton,1551,1
+InitialMonosyllabicSounds,4,176,centremouse,Pa sound recording.wav,centrebutton,629,1
+InitialMonosyllabicSounds,4,177,Pasound,Ka sound recording.wav,onebutton,1789,1
+InitialMonosyllabicSounds,4,178,centremouse,Ka sound recording.wav,centrebutton,394,1
+InitialMonosyllabicSounds,4,179,Pasound,Da sound recording.wav,fourbutton,1616,1
+InitialMonosyllabicSounds,4,180,centremouse,Da sound recording.wav,centrebutton,326,1
+InitialMonosyllabicSounds,4,181,Gabackwardsound,Ka backward.wav,onebutton,902,1
+InitialMonosyllabicSounds,4,182,centremouse,Ka backward.wav,centrebutton,465,1
+InitialMonosyllabicSounds,4,183,Dasound,Da backward.wav,sevenbutton,292,1
+InitialMonosyllabicSounds,4,184,centremouse,Da backward.wav,centrebutton,345,1
+InitialMonosyllabicSounds,4,185,Pasound,Da backward.wav,sevenbutton,347,1
+InitialMonosyllabicSounds,4,186,centremouse,Da backward.wav,centrebutton,635,1
+InitialMonosyllabicSounds,4,187,Babackwardsound,Ta sound recording.wav,sevenbutton,802,1
+InitialMonosyllabicSounds,4,188,centremouse,Ta sound recording.wav,centrebutton,477,1
+InitialMonosyllabicSounds,4,189,catchtrial,Ta sound recording.wav,threebutton,2722,1
+InitialMonosyllabicSounds,4,190,centremouse,Ta sound recording.wav,centrebutton,341,1
+InitialMonosyllabicSounds,4,191,Pasound,Ga backward.wav,sevenbutton,2101,1
+InitialMonosyllabicSounds,4,192,centremouse,Ga backward.wav,centrebutton,393,1
+InitialMonosyllabicSounds,4,193,catchtrial,Ga backward.wav,sixbutton,2472,1
+InitialMonosyllabicSounds,4,194,centremouse,Ga backward.wav,centrebutton,340,1
+InitialMonosyllabicSounds,4,195,Dabackwardsound,Ba backward.wav,zerobutton,331,1
+InitialMonosyllabicSounds,4,196,centremouse,Ba backward.wav,centrebutton,943,1
+InitialMonosyllabicSounds,4,197,Tasound,Pa sound recording.wav,zerobutton,190,1
+InitialMonosyllabicSounds,4,198,centremouse,Pa sound recording.wav,centrebutton,406,1
+InitialMonosyllabicSounds,4,199,Dasound,Ga sound recording.wav,zerobutton,859,1
+InitialMonosyllabicSounds,4,200,centremouse,Ga sound recording.wav,centrebutton,570,1
+InitialMonosyllabicSounds,4,201,Tasound,Pa backward.wav,sevenbutton,1127,1
+InitialMonosyllabicSounds,4,202,centremouse,Pa backward.wav,centrebutton,434,1
+InitialMonosyllabicSounds,4,203,Kabackwardsound,Ga sound recording.wav,sevenbutton,616,1
+InitialMonosyllabicSounds,4,204,centremouse,Ga sound recording.wav,centrebutton,604,1
+InitialMonosyllabicSounds,4,205,Dasound,Pa backward.wav,sevenbutton,216,1
+InitialMonosyllabicSounds,4,206,centremouse,Pa backward.wav,centrebutton,562,1
+InitialMonosyllabicSounds,4,207,Kasound,Da sound recording.wav,twobutton,1321,1
+InitialMonosyllabicSounds,4,208,centremouse,Da sound recording.wav,centrebutton,645,1
+InitialMonosyllabicSounds,4,209,Pabackwardsound,Ba sound recording.wav,sixbutton,891,1
+InitialMonosyllabicSounds,4,210,centremouse,Ba sound recording.wav,centrebutton,621,1
+InitialMonosyllabicSounds,4,211,Gasound,Da sound recording.wav,zerobutton,2326,1
+InitialMonosyllabicSounds,4,212,centremouse,Da sound recording.wav,centrebutton,371,1
+InitialMonosyllabicSounds,4,213,Dasound,Ka sound recording.wav,onebutton,192,1
+InitialMonosyllabicSounds,4,214,centremouse,Ka sound recording.wav,centrebutton,436,1
+InitialMonosyllabicSounds,4,215,Dabackwardsound,Da sound recording.wav,sevenbutton,3767,1
+InitialMonosyllabicSounds,4,216,centremouse,Da sound recording.wav,centrebutton,803,1
+InitialMonosyllabicSounds,4,217,Dasound,Ga backward.wav,sevenbutton,994,1
+InitialMonosyllabicSounds,4,218,centremouse,Ga backward.wav,centrebutton,514,1
+InitialMonosyllabicSounds,4,219,Gabackwardsound,Pa sound recording.wav,sevenbutton,3121,1
+InitialMonosyllabicSounds,4,220,centremouse,Pa sound recording.wav,centrebutton,389,1
+InitialMonosyllabicSounds,4,221,Gabackwardsound,Da backward.wav,zerobutton,638,1
+InitialMonosyllabicSounds,4,222,centremouse,Da backward.wav,centrebutton,503,1
+InitialMonosyllabicSounds,4,223,Gabackwardsound,Pa backward.wav,twobutton,851,1
+InitialMonosyllabicSounds,4,224,centremouse,Pa backward.wav,centrebutton,423,1
+InitialMonosyllabicSounds,4,225,Gabackwardsound,Ta backward.wav,twobutton,784,1
+InitialMonosyllabicSounds,4,226,centremouse,Ta backward.wav,centrebutton,364,1
+InitialMonosyllabicSounds,4,227,Tasound,Ka backward.wav,fivebutton,2135,1
+InitialMonosyllabicSounds,4,228,centremouse,Ka backward.wav,centrebutton,347,1
+InitialMonosyllabicSounds,4,229,Tasound,Da sound recording.wav,threebutton,1603,1
+InitialMonosyllabicSounds,4,230,centremouse,Da sound recording.wav,centrebutton,410,1
+InitialMonosyllabicSounds,4,231,Pabackwardsound,Pa backward.wav,onebutton,1409,1
+InitialMonosyllabicSounds,4,232,centremouse,Pa backward.wav,centrebutton,399,1
+InitialMonosyllabicSounds,4,233,Basound,Ka backward.wav,sixbutton,1080,1
+InitialMonosyllabicSounds,4,234,centremouse,Ka backward.wav,centrebutton,528,1
+InitialMonosyllabicSounds,4,235,Basound,Ka sound recording.wav,threebutton,1459,1
+InitialMonosyllabicSounds,4,236,centremouse,Ka sound recording.wav,centrebutton,421,1
+InitialMonosyllabicSounds,4,237,Tabackwardsound,Da backward.wav,onebutton,1469,1
+InitialMonosyllabicSounds,4,238,centremouse,Da backward.wav,centrebutton,398,1
+InitialMonosyllabicSounds,4,239,catchtrial,Da backward.wav,zerobutton,1484,1
+InitialMonosyllabicSounds,4,240,centremouse,Da backward.wav,centrebutton,361,1
+InitialMonosyllabicSounds,4,241,Gasound,Ka backward.wav,sevenbutton,919,1
+InitialMonosyllabicSounds,4,242,centremouse,Ka backward.wav,centrebutton,418,1
+InitialMonosyllabicSounds,4,243,Pabackwardsound,Pa sound recording.wav,sevenbutton,3251,1
+InitialMonosyllabicSounds,4,244,centremouse,Pa sound recording.wav,centrebutton,412,1
+InitialMonosyllabicSounds,4,245,Tasound,Ga backward.wav,sevenbutton,2821,1
+InitialMonosyllabicSounds,4,246,centremouse,Ga backward.wav,centrebutton,520,1
+InitialMonosyllabicSounds,4,247,catchtrial,Ga backward.wav,fivebutton,4130,1
+InitialMonosyllabicSounds,4,248,centremouse,Ga backward.wav,centrebutton,397,1
+InitialMonosyllabicSounds,4,249,Tasound,Ta sound recording.wav,zerobutton,35,1
+InitialMonosyllabicSounds,4,250,centremouse,Ta sound recording.wav,centrebutton,360,1
+InitialMonosyllabicSounds,4,251,Dabackwardsound,Pa backward.wav,onebutton,1330,1
+InitialMonosyllabicSounds,4,252,centremouse,Pa backward.wav,centrebutton,308,1
+InitialMonosyllabicSounds,4,253,Kabackwardsound,Ba sound recording.wav,sevenbutton,1216,1
+InitialMonosyllabicSounds,4,254,centremouse,Ba sound recording.wav,centrebutton,339,1
+InitialMonosyllabicSounds,4,255,Pasound,Pa backward.wav,sevenbutton,2312,1
+InitialMonosyllabicSounds,4,256,centremouse,Pa backward.wav,centrebutton,320,1
+InitialMonosyllabicSounds,4,257,catchtrial,Pa backward.wav,sixbutton,1609,1
+InitialMonosyllabicSounds,4,258,centremouse,Pa backward.wav,centrebutton,744,1
+InitialMonosyllabicSounds,4,259,Babackwardsound,Ga sound recording.wav,sevenbutton,884,1
+InitialMonosyllabicSounds,4,260,centremouse,Ga sound recording.wav,centrebutton,572,1
+InitialMonosyllabicSounds,4,261,Gasound,Ka sound recording.wav,threebutton,3205,1
+InitialMonosyllabicSounds,4,262,centremouse,Ka sound recording.wav,centrebutton,489,1
+InitialMonosyllabicSounds,4,263,Tabackwardsound,Ba sound recording.wav,sevenbutton,1830,1
+InitialMonosyllabicSounds,4,264,centremouse,Ba sound recording.wav,centrebutton,432,1
+InitialMonosyllabicSounds,4,265,Basound,Ga sound recording.wav,fourbutton,3743,1
+InitialMonosyllabicSounds,4,266,centremouse,Ga sound recording.wav,centrebutton,469,1
+InitialMonosyllabicSounds,4,267,Tabackwardsound,Ta backward.wav,zerobutton,607,1
+InitialMonosyllabicSounds,4,268,centremouse,Ta backward.wav,centrebutton,374,1
+InitialMonosyllabicSounds,4,269,Pasound,Ka backward.wav,sevenbutton,370,1
+InitialMonosyllabicSounds,4,270,centremouse,Ka backward.wav,centrebutton,351,1
+InitialMonosyllabicSounds,4,271,Basound,Ga backward.wav,sixbutton,1147,1
+InitialMonosyllabicSounds,4,272,centremouse,Ga backward.wav,centrebutton,517,1
+InitialMonosyllabicSounds,4,273,Basound,Da sound recording.wav,fourbutton,2745,1
+InitialMonosyllabicSounds,4,274,centremouse,Da sound recording.wav,centrebutton,623,1
+InitialMonosyllabicSounds,4,275,Tabackwardsound,Ka sound recording.wav,sevenbutton,879,1
+InitialMonosyllabicSounds,4,276,centremouse,Ka sound recording.wav,centrebutton,439,1
+InitialMonosyllabicSounds,4,277,Tasound,Ta backward.wav,sevenbutton,74,1
+InitialMonosyllabicSounds,4,278,centremouse,Ta backward.wav,centrebutton,975,1
+InitialMonosyllabicSounds,4,279,Kasound,Ta sound recording.wav,zerobutton,609,1
+InitialMonosyllabicSounds,4,280,centremouse,Ta sound recording.wav,centrebutton,524,1
+InitialMonosyllabicSounds,4,281,Gabackwardsound,Ga backward.wav,onebutton,967,1
+InitialMonosyllabicSounds,4,282,centremouse,Ga backward.wav,centrebutton,389,1
+InitialMonosyllabicSounds,4,283,Kasound,Ga sound recording.wav,threebutton,564,1
+InitialMonosyllabicSounds,4,284,centremouse,Ga sound recording.wav,centrebutton,531,1
+InitialMonosyllabicSounds,4,285,Dasound,Ta backward.wav,sevenbutton,1925,1
+InitialMonosyllabicSounds,4,286,centremouse,Ta backward.wav,centrebutton,543,1
+InitialMonosyllabicSounds,4,287,Gasound,Ta sound recording.wav,threebutton,459,1
+InitialMonosyllabicSounds,4,288,centremouse,Ta sound recording.wav,centrebutton,667,1
+InitialMonosyllabicSounds,4,289,Gasound,Ta backward.wav,fivebutton,4946,1
+InitialMonosyllabicSounds,4,290,centremouse,Ta backward.wav,centrebutton,502,1
+InitialMonosyllabicSounds,4,291,Babackwardsound,Pa backward.wav,onebutton,1555,1
+InitialMonosyllabicSounds,4,292,centremouse,Pa backward.wav,centrebutton,345,1
+InitialMonosyllabicSounds,4,293,catchtrial,Pa backward.wav,fourbutton,1690,1
+InitialMonosyllabicSounds,4,294,centremouse,Pa backward.wav,centrebutton,381,1
+InitialMonosyllabicSounds,4,295,Tabackwardsound,Pa backward.wav,onebutton,1232,1
+InitialMonosyllabicSounds,4,296,centremouse,Pa backward.wav,centrebutton,410,1
+InitialMonosyllabicSounds,4,297,Kasound,Ba sound recording.wav,fourbutton,658,1
+InitialMonosyllabicSounds,4,298,centremouse,Ba sound recording.wav,centrebutton,377,1
+InitialMonosyllabicSounds,4,299,Kasound,Pa sound recording.wav,fourbutton,2316,1
+InitialMonosyllabicSounds,4,300,centremouse,Pa sound recording.wav,centrebutton,826,1
+InitialMonosyllabicSounds,4,301,Gasound,Ba sound recording.wav,threebutton,2691,1
+InitialMonosyllabicSounds,4,302,centremouse,Ba sound recording.wav,centrebutton,690,1
+InitialMonosyllabicSounds,4,303,Gabackwardsound,Ba backward.wav,onebutton,776,1
+InitialMonosyllabicSounds,4,304,centremouse,Ba backward.wav,centrebutton,444,1
+InitialMonosyllabicSounds,4,305,Tabackwardsound,Ba backward.wav,onebutton,711,1
+InitialMonosyllabicSounds,4,306,centremouse,Ba backward.wav,centrebutton,466,1
+InitialMonosyllabicSounds,4,307,Tasound,Da backward.wav,sevenbutton,291,1
+InitialMonosyllabicSounds,4,308,centremouse,Da backward.wav,centrebutton,487,1
+InitialMonosyllabicSounds,4,309,catchtrial,Da backward.wav,twobutton,1994,1
+InitialMonosyllabicSounds,4,310,centremouse,Da backward.wav,centrebutton,394,1
+InitialMonosyllabicSounds,4,311,Tasound,Ka sound recording.wav,zerobutton,282,1
+InitialMonosyllabicSounds,4,312,centremouse,Ka sound recording.wav,centrebutton,500,1
+InitialMonosyllabicSounds,4,313,Pabackwardsound,Ga sound recording.wav,sevenbutton,485,1
+InitialMonosyllabicSounds,4,314,centremouse,Ga sound recording.wav,centrebutton,602,1
+consent,1,1,consent,Ba sound recording.wav,57,1273,2
+myblock,2,1,mytrial,Ba sound recording.wav,57,549,2
+myblock,2,2,mytrial,Ba sound recording.wav,57,845,2
+myblock,2,3,mytrial,Ba sound recording.wav,57,554,2
+Practice,3,1,calibration,Ba sound recording.wav,57,688,2
+Practice,3,2,Practicetrial,Ba sound recording.wav,57,1586,2
+Practice,3,3,Practicetrial,Ba sound recording.wav,57,2090,2
+Practice,3,4,Practicetrial,Ba sound recording.wav,57,2306,2
+Practice,3,5,Practicetrial,Ba sound recording.wav,57,1197,2
+Practice,3,6,Practicetrial,Ba sound recording.wav,57,1484,2
+Practice,3,7,Practicetrial,Ba sound recording.wav,57,1704,2
+Practice,3,8,Practicetrial,Ba sound recording.wav,57,1244,2
+Practice,3,9,Practicetrial,Ba sound recording.wav,57,1649,2
+Practice,3,10,Practicetrial,Ba sound recording.wav,57,1782,2
+Practice,3,11,Practicetrial,Ba sound recording.wav,57,1366,2
+Practice,3,12,Practicetrial,Ba sound recording.wav,57,1751,2
+Practice,3,13,Practicetrial,Ba sound recording.wav,57,1352,2
+Practice,3,14,PracticeReady,Ba sound recording.wav,57,978,2
+Practice,3,15,PracticeRun,Ba sound recording.wav,threebutton,2742,2
+Practice,3,16,centremouse,Ba sound recording.wav,centrebutton,938,2
+Practice,3,17,PracticeRun,Ba sound recording.wav,sevenbutton,6215,2
+Practice,3,18,centremouse,Ba sound recording.wav,centrebutton,552,2
+Practice,3,19,Finishedpracticerun,Ba sound recording.wav,57,1952,2
+InitialMonosyllabicSounds,4,1,catchtrial,Ba sound recording.wav,sevenbutton,2431,2
+InitialMonosyllabicSounds,4,2,centremouse,Ba sound recording.wav,centrebutton,596,2
+InitialMonosyllabicSounds,4,3,Tasound,Pa backward.wav,sevenbutton,1325,2
+InitialMonosyllabicSounds,4,4,centremouse,Pa backward.wav,centrebutton,628,2
+InitialMonosyllabicSounds,4,5,Dasound,Ta sound recording.wav,twobutton,911,2
+InitialMonosyllabicSounds,4,6,centremouse,Ta sound recording.wav,centrebutton,1309,2
+InitialMonosyllabicSounds,4,7,Tabackwardsound,Ba backward.wav,twobutton,3205,2
+InitialMonosyllabicSounds,4,8,centremouse,Ba backward.wav,centrebutton,557,2
+InitialMonosyllabicSounds,4,9,Gasound,Da sound recording.wav,fourbutton,4065,2
+InitialMonosyllabicSounds,4,10,centremouse,Da sound recording.wav,centrebutton,537,2
+InitialMonosyllabicSounds,4,11,Kabackwardsound,Ka sound recording.wav,sevenbutton,1493,2
+InitialMonosyllabicSounds,4,12,centremouse,Ka sound recording.wav,centrebutton,532,2
+InitialMonosyllabicSounds,4,13,Dasound,Da sound recording.wav,zerobutton,854,2
+InitialMonosyllabicSounds,4,14,centremouse,Da sound recording.wav,centrebutton,1027,2
+InitialMonosyllabicSounds,4,15,Kasound,Ta backward.wav,sevenbutton,984,2
+InitialMonosyllabicSounds,4,16,centremouse,Ta backward.wav,centrebutton,703,2
+InitialMonosyllabicSounds,4,17,Gabackwardsound,Ka sound recording.wav,sevenbutton,898,2
+InitialMonosyllabicSounds,4,18,centremouse,Ka sound recording.wav,centrebutton,491,2
+InitialMonosyllabicSounds,4,19,catchtrial,Ka sound recording.wav,twobutton,1568,2
+InitialMonosyllabicSounds,4,20,centremouse,Ka sound recording.wav,centrebutton,447,2
+InitialMonosyllabicSounds,4,21,Kasound,Ka backward.wav,sevenbutton,2094,2
+InitialMonosyllabicSounds,4,22,centremouse,Ka backward.wav,centrebutton,510,2
+InitialMonosyllabicSounds,4,23,Pabackwardsound,Ka backward.wav,zerobutton,1824,2
+InitialMonosyllabicSounds,4,24,centremouse,Ka backward.wav,centrebutton,575,2
+InitialMonosyllabicSounds,4,25,Dabackwardsound,Da sound recording.wav,sevenbutton,658,2
+InitialMonosyllabicSounds,4,26,centremouse,Da sound recording.wav,centrebutton,1245,2
+InitialMonosyllabicSounds,4,27,Dasound,Ka sound recording.wav,fourbutton,3668,2
+InitialMonosyllabicSounds,4,28,centremouse,Ka sound recording.wav,centrebutton,1574,2
+InitialMonosyllabicSounds,4,29,Tabackwardsound,Ka backward.wav,zerobutton,1174,2
+InitialMonosyllabicSounds,4,30,centremouse,Ka backward.wav,centrebutton,404,2
+InitialMonosyllabicSounds,4,31,Dabackwardsound,Ta backward.wav,onebutton,1470,2
+InitialMonosyllabicSounds,4,32,centremouse,Ta backward.wav,centrebutton,480,2
+InitialMonosyllabicSounds,4,33,Kasound,Da sound recording.wav,fourbutton,1899,2
+InitialMonosyllabicSounds,4,34,centremouse,Da sound recording.wav,centrebutton,646,2
+InitialMonosyllabicSounds,4,35,Kasound,Ka sound recording.wav,zerobutton,954,2
+InitialMonosyllabicSounds,4,36,centremouse,Ka sound recording.wav,centrebutton,547,2
+InitialMonosyllabicSounds,4,37,Kabackwardsound,Ga backward.wav,zerobutton,883,2
+InitialMonosyllabicSounds,4,38,centremouse,Ga backward.wav,centrebutton,462,2
+InitialMonosyllabicSounds,4,39,Gabackwardsound,Ta backward.wav,onebutton,1041,2
+InitialMonosyllabicSounds,4,40,centremouse,Ta backward.wav,centrebutton,486,2
+InitialMonosyllabicSounds,4,41,Tabackwardsound,Ga sound recording.wav,sevenbutton,1897,2
+InitialMonosyllabicSounds,4,42,centremouse,Ga sound recording.wav,centrebutton,491,2
+InitialMonosyllabicSounds,4,43,Pasound,Pa backward.wav,sevenbutton,963,2
+InitialMonosyllabicSounds,4,44,centremouse,Pa backward.wav,centrebutton,591,2
+InitialMonosyllabicSounds,4,45,Pabackwardsound,Pa sound recording.wav,sevenbutton,718,2
+InitialMonosyllabicSounds,4,46,centremouse,Pa sound recording.wav,centrebutton,409,2
+InitialMonosyllabicSounds,4,47,Kabackwardsound,Ta sound recording.wav,sevenbutton,536,2
+InitialMonosyllabicSounds,4,48,centremouse,Ta sound recording.wav,centrebutton,447,2
+InitialMonosyllabicSounds,4,49,Tasound,Ga backward.wav,sevenbutton,63,2
+InitialMonosyllabicSounds,4,50,centremouse,Ga backward.wav,centrebutton,462,2
+InitialMonosyllabicSounds,4,51,catchtrial,Ga backward.wav,sixbutton,1715,2
+InitialMonosyllabicSounds,4,52,centremouse,Ga backward.wav,centrebutton,525,2
+InitialMonosyllabicSounds,4,53,Dabackwardsound,Da backward.wav,onebutton,2226,2
+InitialMonosyllabicSounds,4,54,centremouse,Da backward.wav,centrebutton,646,2
+InitialMonosyllabicSounds,4,55,Pabackwardsound,Da backward.wav,onebutton,1324,2
+InitialMonosyllabicSounds,4,56,centremouse,Da backward.wav,centrebutton,445,2
+InitialMonosyllabicSounds,4,57,Dabackwardsound,Ga sound recording.wav,sevenbutton,874,2
+InitialMonosyllabicSounds,4,58,centremouse,Ga sound recording.wav,centrebutton,582,2
+InitialMonosyllabicSounds,4,59,Kasound,Ga sound recording.wav,threebutton,1143,2
+InitialMonosyllabicSounds,4,60,centremouse,Ga sound recording.wav,centrebutton,727,2
+InitialMonosyllabicSounds,4,61,Pasound,Ka backward.wav,sevenbutton,1221,2
+InitialMonosyllabicSounds,4,62,centremouse,Ka backward.wav,centrebutton,493,2
+InitialMonosyllabicSounds,4,63,Basound,Ka sound recording.wav,fivebutton,1583,2
+InitialMonosyllabicSounds,4,64,centremouse,Ka sound recording.wav,centrebutton,703,2
+InitialMonosyllabicSounds,4,65,catchtrial,Ka sound recording.wav,fivebutton,1498,2
+InitialMonosyllabicSounds,4,66,centremouse,Ka sound recording.wav,centrebutton,509,2
+InitialMonosyllabicSounds,4,67,Basound,Ta backward.wav,sevenbutton,350,2
+InitialMonosyllabicSounds,4,68,centremouse,Ta backward.wav,centrebutton,360,2
+InitialMonosyllabicSounds,4,69,Tabackwardsound,Ba sound recording.wav,sevenbutton,1636,2
+InitialMonosyllabicSounds,4,70,centremouse,Ba sound recording.wav,centrebutton,1373,2
+InitialMonosyllabicSounds,4,71,Dasound,Ba sound recording.wav,threebutton,570,2
+InitialMonosyllabicSounds,4,72,centremouse,Ba sound recording.wav,centrebutton,757,2
+InitialMonosyllabicSounds,4,73,Kasound,Pa sound recording.wav,fourbutton,1901,2
+InitialMonosyllabicSounds,4,74,centremouse,Pa sound recording.wav,centrebutton,664,2
+InitialMonosyllabicSounds,4,75,Basound,Ka backward.wav,sevenbutton,1792,2
+InitialMonosyllabicSounds,4,76,centremouse,Ka backward.wav,centrebutton,986,2
+InitialMonosyllabicSounds,4,77,Babackwardsound,Ka backward.wav,twobutton,2229,2
+InitialMonosyllabicSounds,4,78,centremouse,Ka backward.wav,centrebutton,742,2
+InitialMonosyllabicSounds,4,79,Dabackwardsound,Ba sound recording.wav,sevenbutton,418,2
+InitialMonosyllabicSounds,4,80,centremouse,Ba sound recording.wav,centrebutton,453,2
+InitialMonosyllabicSounds,4,81,Gabackwardsound,Ba sound recording.wav,sevenbutton,588,2
+InitialMonosyllabicSounds,4,82,centremouse,Ba sound recording.wav,centrebutton,520,2
+InitialMonosyllabicSounds,4,83,Dasound,Pa backward.wav,sevenbutton,389,2
+InitialMonosyllabicSounds,4,84,centremouse,Pa backward.wav,centrebutton,451,2
+InitialMonosyllabicSounds,4,85,Kabackwardsound,Ba sound recording.wav,sevenbutton,878,2
+InitialMonosyllabicSounds,4,86,centremouse,Ba sound recording.wav,centrebutton,322,2
+InitialMonosyllabicSounds,4,87,Pasound,Ba backward.wav,sevenbutton,933,2
+InitialMonosyllabicSounds,4,88,centremouse,Ba backward.wav,centrebutton,340,2
+InitialMonosyllabicSounds,4,89,Tasound,Pa sound recording.wav,twobutton,1513,2
+InitialMonosyllabicSounds,4,90,centremouse,Pa sound recording.wav,centrebutton,512,2
+InitialMonosyllabicSounds,4,91,Basound,Pa sound recording.wav,threebutton,1032,2
+InitialMonosyllabicSounds,4,92,centremouse,Pa sound recording.wav,centrebutton,414,2
+InitialMonosyllabicSounds,4,93,Pasound,Ga backward.wav,sevenbutton,488,2
+InitialMonosyllabicSounds,4,94,centremouse,Ga backward.wav,centrebutton,366,2
+InitialMonosyllabicSounds,4,95,Pasound,Ka sound recording.wav,threebutton,651,2
+InitialMonosyllabicSounds,4,96,centremouse,Ka sound recording.wav,centrebutton,356,2
+InitialMonosyllabicSounds,4,97,Dasound,Ba backward.wav,sevenbutton,954,2
+InitialMonosyllabicSounds,4,98,centremouse,Ba backward.wav,centrebutton,462,2
+InitialMonosyllabicSounds,4,99,Gasound,Ka backward.wav,sevenbutton,792,2
+InitialMonosyllabicSounds,4,100,centremouse,Ka backward.wav,centrebutton,743,2
+InitialMonosyllabicSounds,4,101,Kasound,Pa backward.wav,sevenbutton,185,2
+InitialMonosyllabicSounds,4,102,centremouse,Pa backward.wav,centrebutton,742,2
+InitialMonosyllabicSounds,4,103,Babackwardsound,Ta backward.wav,twobutton,3339,2
+InitialMonosyllabicSounds,4,104,centremouse,Ta backward.wav,centrebutton,600,2
+InitialMonosyllabicSounds,4,105,Kabackwardsound,Pa backward.wav,onebutton,1530,2
+InitialMonosyllabicSounds,4,106,centremouse,Pa backward.wav,centrebutton,575,2
+InitialMonosyllabicSounds,4,107,catchtrial,Pa backward.wav,threebutton,1959,2
+InitialMonosyllabicSounds,4,108,centremouse,Pa backward.wav,centrebutton,599,2
+InitialMonosyllabicSounds,4,109,Tabackwardsound,Da backward.wav,onebutton,937,2
+InitialMonosyllabicSounds,4,110,centremouse,Da backward.wav,centrebutton,574,2
+InitialMonosyllabicSounds,4,111,catchtrial,Da backward.wav,onebutton,1390,2
+InitialMonosyllabicSounds,4,112,centremouse,Da backward.wav,centrebutton,597,2
+InitialMonosyllabicSounds,4,113,Tasound,Ka sound recording.wav,twobutton,711,2
+InitialMonosyllabicSounds,4,114,centremouse,Ka sound recording.wav,centrebutton,534,2
+InitialMonosyllabicSounds,4,115,Pabackwardsound,Ta backward.wav,zerobutton,1140,2
+InitialMonosyllabicSounds,4,116,centremouse,Ta backward.wav,centrebutton,632,2
+InitialMonosyllabicSounds,4,117,Babackwardsound,Ta sound recording.wav,sevenbutton,1017,2
+InitialMonosyllabicSounds,4,118,centremouse,Ta sound recording.wav,centrebutton,377,2
+InitialMonosyllabicSounds,4,119,catchtrial,Ta sound recording.wav,fourbutton,1801,2
+InitialMonosyllabicSounds,4,120,centremouse,Ta sound recording.wav,centrebutton,529,2
+InitialMonosyllabicSounds,4,121,Pabackwardsound,Ba backward.wav,onebutton,1920,2
+InitialMonosyllabicSounds,4,122,centremouse,Ba backward.wav,centrebutton,477,2
+InitialMonosyllabicSounds,4,123,Dasound,Ka backward.wav,sevenbutton,89,2
+InitialMonosyllabicSounds,4,124,centremouse,Ka backward.wav,centrebutton,510,2
+InitialMonosyllabicSounds,4,125,Pabackwardsound,Pa backward.wav,zerobutton,674,2
+InitialMonosyllabicSounds,4,126,centremouse,Pa backward.wav,centrebutton,435,2
+InitialMonosyllabicSounds,4,127,Tabackwardsound,Ta sound recording.wav,sevenbutton,836,2
+InitialMonosyllabicSounds,4,128,centremouse,Ta sound recording.wav,centrebutton,444,2
+InitialMonosyllabicSounds,4,129,Kasound,Ba backward.wav,sevenbutton,602,2
+InitialMonosyllabicSounds,4,130,centremouse,Ba backward.wav,centrebutton,615,2
+InitialMonosyllabicSounds,4,131,Gabackwardsound,Ta sound recording.wav,sevenbutton,463,2
+InitialMonosyllabicSounds,4,132,centremouse,Ta sound recording.wav,centrebutton,392,2
+InitialMonosyllabicSounds,4,133,catchtrial,Ta sound recording.wav,zerobutton,1512,2
+InitialMonosyllabicSounds,4,134,centremouse,Ta sound recording.wav,centrebutton,562,2
+InitialMonosyllabicSounds,4,135,Gabackwardsound,Pa sound recording.wav,sevenbutton,990,2
+InitialMonosyllabicSounds,4,136,centremouse,Pa sound recording.wav,centrebutton,424,2
+InitialMonosyllabicSounds,4,137,Pabackwardsound,Ba sound recording.wav,sevenbutton,426,2
+InitialMonosyllabicSounds,4,138,centremouse,Ba sound recording.wav,centrebutton,348,2
+InitialMonosyllabicSounds,4,139,Kabackwardsound,Ta backward.wav,onebutton,2791,2
+InitialMonosyllabicSounds,4,140,centremouse,Ta backward.wav,centrebutton,394,2
+InitialMonosyllabicSounds,4,141,catchtrial,Ta backward.wav,fivebutton,1273,2
+InitialMonosyllabicSounds,4,142,centremouse,Ta backward.wav,centrebutton,366,2
+InitialMonosyllabicSounds,4,143,Tasound,Ta sound recording.wav,zerobutton,1114,2
+InitialMonosyllabicSounds,4,144,centremouse,Ta sound recording.wav,centrebutton,399,2
+InitialMonosyllabicSounds,4,145,Babackwardsound,Ga backward.wav,onebutton,1523,2
+InitialMonosyllabicSounds,4,146,centremouse,Ga backward.wav,centrebutton,518,2
+InitialMonosyllabicSounds,4,147,Dasound,Ga sound recording.wav,threebutton,3178,2
+InitialMonosyllabicSounds,4,148,centremouse,Ga sound recording.wav,centrebutton,409,2
+InitialMonosyllabicSounds,4,149,Dasound,Pa sound recording.wav,fivebutton,861,2
+InitialMonosyllabicSounds,4,150,centremouse,Pa sound recording.wav,centrebutton,509,2
+InitialMonosyllabicSounds,4,151,Dabackwardsound,Ga backward.wav,onebutton,1699,2
+InitialMonosyllabicSounds,4,152,centremouse,Ga backward.wav,centrebutton,372,2
+InitialMonosyllabicSounds,4,153,Kabackwardsound,Pa sound recording.wav,sevenbutton,934,2
+InitialMonosyllabicSounds,4,154,centremouse,Pa sound recording.wav,centrebutton,427,2
+InitialMonosyllabicSounds,4,155,Gasound,Pa sound recording.wav,threebutton,1651,2
+InitialMonosyllabicSounds,4,156,centremouse,Pa sound recording.wav,centrebutton,509,2
+InitialMonosyllabicSounds,4,157,Dabackwardsound,Pa sound recording.wav,sevenbutton,698,2
+InitialMonosyllabicSounds,4,158,centremouse,Pa sound recording.wav,centrebutton,411,2
+InitialMonosyllabicSounds,4,159,catchtrial,Pa sound recording.wav,threebutton,1785,2
+InitialMonosyllabicSounds,4,160,centremouse,Pa sound recording.wav,centrebutton,425,2
+InitialMonosyllabicSounds,4,161,Gabackwardsound,Da backward.wav,onebutton,2233,2
+InitialMonosyllabicSounds,4,162,centremouse,Da backward.wav,centrebutton,428,2
+InitialMonosyllabicSounds,4,163,Pasound,Pa sound recording.wav,zerobutton,773,2
+InitialMonosyllabicSounds,4,164,centremouse,Pa sound recording.wav,centrebutton,520,2
+InitialMonosyllabicSounds,4,165,Tasound,Da sound recording.wav,onebutton,933,2
+InitialMonosyllabicSounds,4,166,centremouse,Da sound recording.wav,centrebutton,347,2
+InitialMonosyllabicSounds,4,167,Pasound,Ga sound recording.wav,fivebutton,1021,2
+InitialMonosyllabicSounds,4,168,centremouse,Ga sound recording.wav,centrebutton,410,2
+InitialMonosyllabicSounds,4,169,Dabackwardsound,Ka sound recording.wav,sevenbutton,558,2
+InitialMonosyllabicSounds,4,170,centremouse,Ka sound recording.wav,centrebutton,497,2
+InitialMonosyllabicSounds,4,171,Tabackwardsound,Ka sound recording.wav,sevenbutton,639,2
+InitialMonosyllabicSounds,4,172,centremouse,Ka sound recording.wav,centrebutton,513,2
+InitialMonosyllabicSounds,4,173,Gasound,Ka sound recording.wav,fivebutton,838,2
+InitialMonosyllabicSounds,4,174,centremouse,Ka sound recording.wav,centrebutton,512,2
+InitialMonosyllabicSounds,4,175,Babackwardsound,Ba backward.wav,onebutton,1780,2
+InitialMonosyllabicSounds,4,176,centremouse,Ba backward.wav,centrebutton,465,2
+InitialMonosyllabicSounds,4,177,Basound,Da backward.wav,sevenbutton,635,2
+InitialMonosyllabicSounds,4,178,centremouse,Da backward.wav,centrebutton,440,2
+InitialMonosyllabicSounds,4,179,Dabackwardsound,Ba backward.wav,onebutton,1436,2
+InitialMonosyllabicSounds,4,180,centremouse,Ba backward.wav,centrebutton,821,2
+InitialMonosyllabicSounds,4,181,Pabackwardsound,Ta sound recording.wav,sevenbutton,1003,2
+InitialMonosyllabicSounds,4,182,centremouse,Ta sound recording.wav,centrebutton,393,2
+InitialMonosyllabicSounds,4,183,Babackwardsound,Ka sound recording.wav,sevenbutton,831,2
+InitialMonosyllabicSounds,4,184,centremouse,Ka sound recording.wav,centrebutton,453,2
+InitialMonosyllabicSounds,4,185,Kabackwardsound,Da backward.wav,onebutton,1336,2
+InitialMonosyllabicSounds,4,186,centremouse,Da backward.wav,centrebutton,418,2
+InitialMonosyllabicSounds,4,187,Babackwardsound,Pa sound recording.wav,sevenbutton,826,2
+InitialMonosyllabicSounds,4,188,centremouse,Pa sound recording.wav,centrebutton,332,2
+InitialMonosyllabicSounds,4,189,Gasound,Pa backward.wav,sevenbutton,347,2
+InitialMonosyllabicSounds,4,190,centremouse,Pa backward.wav,centrebutton,332,2
+InitialMonosyllabicSounds,4,191,Gasound,Ba backward.wav,sevenbutton,1085,2
+InitialMonosyllabicSounds,4,192,centremouse,Ba backward.wav,centrebutton,456,2
+InitialMonosyllabicSounds,4,193,Basound,Ga backward.wav,sevenbutton,492,2
+InitialMonosyllabicSounds,4,194,centremouse,Ga backward.wav,centrebutton,366,2
+InitialMonosyllabicSounds,4,195,Gasound,Ga sound recording.wav,zerobutton,855,2
+InitialMonosyllabicSounds,4,196,centremouse,Ga sound recording.wav,centrebutton,425,2
+InitialMonosyllabicSounds,4,197,Gasound,Da backward.wav,sevenbutton,674,2
+InitialMonosyllabicSounds,4,198,centremouse,Da backward.wav,centrebutton,400,2
+InitialMonosyllabicSounds,4,199,Pabackwardsound,Ga backward.wav,twobutton,1193,2
+InitialMonosyllabicSounds,4,200,centremouse,Ga backward.wav,centrebutton,390,2
+InitialMonosyllabicSounds,4,201,Kasound,Ga backward.wav,sevenbutton,583,2
+InitialMonosyllabicSounds,4,202,centremouse,Ga backward.wav,centrebutton,396,2
+InitialMonosyllabicSounds,4,203,Babackwardsound,Pa backward.wav,twobutton,1702,2
+InitialMonosyllabicSounds,4,204,centremouse,Pa backward.wav,centrebutton,436,2
+InitialMonosyllabicSounds,4,205,Tabackwardsound,Pa sound recording.wav,sevenbutton,1533,2
+InitialMonosyllabicSounds,4,206,centremouse,Pa sound recording.wav,centrebutton,577,2
+InitialMonosyllabicSounds,4,207,Tasound,Ba backward.wav,sevenbutton,291,2
+InitialMonosyllabicSounds,4,208,centremouse,Ba backward.wav,centrebutton,564,2
+InitialMonosyllabicSounds,4,209,Basound,Ta sound recording.wav,sixbutton,2478,2
+InitialMonosyllabicSounds,4,210,centremouse,Ta sound recording.wav,centrebutton,670,2
+InitialMonosyllabicSounds,4,211,Tasound,Ga sound recording.wav,fourbutton,1505,2
+InitialMonosyllabicSounds,4,212,centremouse,Ga sound recording.wav,centrebutton,403,2
+InitialMonosyllabicSounds,4,213,Babackwardsound,Da backward.wav,twobutton,1988,2
+InitialMonosyllabicSounds,4,214,centremouse,Da backward.wav,centrebutton,448,2
+InitialMonosyllabicSounds,4,215,Babackwardsound,Ba sound recording.wav,sevenbutton,958,2
+InitialMonosyllabicSounds,4,216,centremouse,Ba sound recording.wav,centrebutton,428,2
+InitialMonosyllabicSounds,4,217,Dasound,Ta backward.wav,sevenbutton,681,2
+InitialMonosyllabicSounds,4,218,centremouse,Ta backward.wav,centrebutton,478,2
+InitialMonosyllabicSounds,4,219,Gabackwardsound,Ka backward.wav,onebutton,3700,2
+InitialMonosyllabicSounds,4,220,centremouse,Ka backward.wav,centrebutton,515,2
+InitialMonosyllabicSounds,4,221,Pasound,Da backward.wav,sevenbutton,181,2
+InitialMonosyllabicSounds,4,222,centremouse,Da backward.wav,centrebutton,469,2
+InitialMonosyllabicSounds,4,223,Kabackwardsound,Ba backward.wav,twobutton,999,2
+InitialMonosyllabicSounds,4,224,centremouse,Ba backward.wav,centrebutton,423,2
+InitialMonosyllabicSounds,4,225,Gasound,Ta sound recording.wav,threebutton,1207,2
+InitialMonosyllabicSounds,4,226,centremouse,Ta sound recording.wav,centrebutton,409,2
+InitialMonosyllabicSounds,4,227,Pasound,Da sound recording.wav,fivebutton,981,2
+InitialMonosyllabicSounds,4,228,centremouse,Da sound recording.wav,centrebutton,920,2
+InitialMonosyllabicSounds,4,229,catchtrial,Da sound recording.wav,zerobutton,2698,2
+InitialMonosyllabicSounds,4,230,centremouse,Da sound recording.wav,centrebutton,486,2
+InitialMonosyllabicSounds,4,231,Dabackwardsound,Ka backward.wav,onebutton,1721,2
+InitialMonosyllabicSounds,4,232,centremouse,Ka backward.wav,centrebutton,388,2
+InitialMonosyllabicSounds,4,233,Basound,Ba sound recording.wav,zerobutton,861,2
+InitialMonosyllabicSounds,4,234,centremouse,Ba sound recording.wav,centrebutton,406,2
+InitialMonosyllabicSounds,4,235,Tabackwardsound,Ta backward.wav,zerobutton,656,2
+InitialMonosyllabicSounds,4,236,centremouse,Ta backward.wav,centrebutton,367,2
+InitialMonosyllabicSounds,4,237,Babackwardsound,Da sound recording.wav,sevenbutton,850,2
+InitialMonosyllabicSounds,4,238,centremouse,Da sound recording.wav,centrebutton,314,2
+InitialMonosyllabicSounds,4,239,Kasound,Ba sound recording.wav,fivebutton,1375,2
+InitialMonosyllabicSounds,4,240,centremouse,Ba sound recording.wav,centrebutton,436,2
+InitialMonosyllabicSounds,4,241,Basound,Ba backward.wav,sevenbutton,664,2
+InitialMonosyllabicSounds,4,242,centremouse,Ba backward.wav,centrebutton,516,2
+InitialMonosyllabicSounds,4,243,Gabackwardsound,Pa backward.wav,onebutton,1094,2
+InitialMonosyllabicSounds,4,244,centremouse,Pa backward.wav,centrebutton,343,2
+InitialMonosyllabicSounds,4,245,Tabackwardsound,Pa backward.wav,zerobutton,423,2
+InitialMonosyllabicSounds,4,246,centremouse,Pa backward.wav,centrebutton,389,2
+InitialMonosyllabicSounds,4,247,Gasound,Ta backward.wav,sevenbutton,929,2
+InitialMonosyllabicSounds,4,248,centremouse,Ta backward.wav,centrebutton,508,2
+InitialMonosyllabicSounds,4,249,Kabackwardsound,Ka backward.wav,zerobutton,426,2
+InitialMonosyllabicSounds,4,250,centremouse,Ka backward.wav,centrebutton,675,2
+InitialMonosyllabicSounds,4,251,Dasound,Ga backward.wav,sevenbutton,1062,2
+InitialMonosyllabicSounds,4,252,centremouse,Ga backward.wav,centrebutton,604,2
+InitialMonosyllabicSounds,4,253,Tabackwardsound,Da sound recording.wav,sevenbutton,1073,2
+InitialMonosyllabicSounds,4,254,centremouse,Da sound recording.wav,centrebutton,494,2
+InitialMonosyllabicSounds,4,255,Basound,Ga sound recording.wav,fourbutton,741,2
+InitialMonosyllabicSounds,4,256,centremouse,Ga sound recording.wav,centrebutton,616,2
+InitialMonosyllabicSounds,4,257,Gabackwardsound,Ga sound recording.wav,sevenbutton,540,2
+InitialMonosyllabicSounds,4,258,centremouse,Ga sound recording.wav,centrebutton,405,2
+InitialMonosyllabicSounds,4,259,Pabackwardsound,Ga sound recording.wav,sevenbutton,372,2
+InitialMonosyllabicSounds,4,260,centremouse,Ga sound recording.wav,centrebutton,413,2
+InitialMonosyllabicSounds,4,261,catchtrial,Ga sound recording.wav,twobutton,2202,2
+InitialMonosyllabicSounds,4,262,centremouse,Ga sound recording.wav,centrebutton,552,2
+InitialMonosyllabicSounds,4,263,Tasound,Ka backward.wav,sevenbutton,492,2
+InitialMonosyllabicSounds,4,264,centremouse,Ka backward.wav,centrebutton,379,2
+InitialMonosyllabicSounds,4,265,Gabackwardsound,Ba backward.wav,onebutton,1321,2
+InitialMonosyllabicSounds,4,266,centremouse,Ba backward.wav,centrebutton,452,2
+InitialMonosyllabicSounds,4,267,Gabackwardsound,Da sound recording.wav,sevenbutton,1411,2
+InitialMonosyllabicSounds,4,268,centremouse,Da sound recording.wav,centrebutton,493,2
+InitialMonosyllabicSounds,4,269,Babackwardsound,Ga sound recording.wav,sevenbutton,991,2
+InitialMonosyllabicSounds,4,270,centremouse,Ga sound recording.wav,centrebutton,503,2
+InitialMonosyllabicSounds,4,271,Tasound,Da backward.wav,sevenbutton,178,2
+InitialMonosyllabicSounds,4,272,centremouse,Da backward.wav,centrebutton,394,2
+InitialMonosyllabicSounds,4,273,Gasound,Ba sound recording.wav,threebutton,1240,2
+InitialMonosyllabicSounds,4,274,centremouse,Ba sound recording.wav,centrebutton,445,2
+InitialMonosyllabicSounds,4,275,Tasound,Ba sound recording.wav,threebutton,509,2
+InitialMonosyllabicSounds,4,276,centremouse,Ba sound recording.wav,centrebutton,404,2
+InitialMonosyllabicSounds,4,277,Pabackwardsound,Ka sound recording.wav,sevenbutton,688,2
+InitialMonosyllabicSounds,4,278,centremouse,Ka sound recording.wav,centrebutton,405,2
+InitialMonosyllabicSounds,4,279,Dabackwardsound,Ta sound recording.wav,sevenbutton,378,2
+InitialMonosyllabicSounds,4,280,centremouse,Ta sound recording.wav,centrebutton,461,2
+InitialMonosyllabicSounds,4,281,Tasound,Ta backward.wav,sevenbutton,710,2
+InitialMonosyllabicSounds,4,282,centremouse,Ta backward.wav,centrebutton,490,2
+InitialMonosyllabicSounds,4,283,Pasound,Ba sound recording.wav,fourbutton,1406,2
+InitialMonosyllabicSounds,4,284,centremouse,Ba sound recording.wav,centrebutton,469,2
+InitialMonosyllabicSounds,4,285,Gasound,Ga backward.wav,sevenbutton,2250,2
+InitialMonosyllabicSounds,4,286,centremouse,Ga backward.wav,centrebutton,541,2
+InitialMonosyllabicSounds,4,287,Tabackwardsound,Ga backward.wav,onebutton,2159,2
+InitialMonosyllabicSounds,4,288,centremouse,Ga backward.wav,centrebutton,430,2
+InitialMonosyllabicSounds,4,289,Kasound,Ta sound recording.wav,fourbutton,1822,2
+InitialMonosyllabicSounds,4,290,centremouse,Ta sound recording.wav,centrebutton,447,2
+InitialMonosyllabicSounds,4,291,Dasound,Da backward.wav,sevenbutton,879,2
+InitialMonosyllabicSounds,4,292,centremouse,Da backward.wav,centrebutton,505,2
+InitialMonosyllabicSounds,4,293,Pasound,Ta backward.wav,sevenbutton,772,2
+InitialMonosyllabicSounds,4,294,centremouse,Ta backward.wav,centrebutton,492,2
+InitialMonosyllabicSounds,4,295,Basound,Pa backward.wav,sevenbutton,210,2
+InitialMonosyllabicSounds,4,296,centremouse,Pa backward.wav,centrebutton,469,2
+InitialMonosyllabicSounds,4,297,Kabackwardsound,Da sound recording.wav,sevenbutton,548,2
+InitialMonosyllabicSounds,4,298,centremouse,Da sound recording.wav,centrebutton,456,2
+InitialMonosyllabicSounds,4,299,Pasound,Ta sound recording.wav,threebutton,956,2
+InitialMonosyllabicSounds,4,300,centremouse,Ta sound recording.wav,centrebutton,381,2
+InitialMonosyllabicSounds,4,301,catchtrial,Ta sound recording.wav,onebutton,1764,2
+InitialMonosyllabicSounds,4,302,centremouse,Ta sound recording.wav,centrebutton,533,2
+InitialMonosyllabicSounds,4,303,Basound,Da sound recording.wav,threebutton,2153,2
+InitialMonosyllabicSounds,4,304,centremouse,Da sound recording.wav,centrebutton,357,2
+InitialMonosyllabicSounds,4,305,Kasound,Da backward.wav,sevenbutton,472,2
+InitialMonosyllabicSounds,4,306,centremouse,Da backward.wav,centrebutton,481,2
+InitialMonosyllabicSounds,4,307,Dabackwardsound,Pa backward.wav,onebutton,846,2
+InitialMonosyllabicSounds,4,308,centremouse,Pa backward.wav,centrebutton,401,2
+InitialMonosyllabicSounds,4,309,Kabackwardsound,Ga sound recording.wav,sevenbutton,919,2
+InitialMonosyllabicSounds,4,310,centremouse,Ga sound recording.wav,centrebutton,513,2
+InitialMonosyllabicSounds,4,311,Gabackwardsound,Ga backward.wav,zerobutton,541,2
+InitialMonosyllabicSounds,4,312,centremouse,Ga backward.wav,centrebutton,428,2
+InitialMonosyllabicSounds,4,313,Pabackwardsound,Da sound recording.wav,sevenbutton,1983,2
+InitialMonosyllabicSounds,4,314,centremouse,Da sound recording.wav,centrebutton,417,2
+consent,1,1,consent,Ba sound recording.wav,57,316,0
+myblock,2,1,mytrial,Ba sound recording.wav,57,70,0
+myblock,2,2,mytrial,Ba sound recording.wav,57,32,0
+myblock,2,3,mytrial,Ba sound recording.wav,57,38,0
+Practice,3,1,calibration,Ba sound recording.wav,57,48,0
+Practice,3,2,Practicetrial,Ba sound recording.wav,57,984,0
+Practice,3,3,Practicetrial,Ba sound recording.wav,57,1395,0
+Practice,3,4,Practicetrial,Ba sound recording.wav,57,1348,0
+Practice,3,5,Practicetrial,Ba sound recording.wav,57,1515,0
+Practice,3,6,Practicetrial,Ba sound recording.wav,57,969,0
+Practice,3,7,Practicetrial,Ba sound recording.wav,57,1378,0
+Practice,3,8,Practicetrial,Ba sound recording.wav,57,1348,0
+Practice,3,9,Practicetrial,Ba sound recording.wav,57,1521,0
+Practice,3,10,Practicetrial,Ba sound recording.wav,57,1198,0
+Practice,3,11,Practicetrial,Ba sound recording.wav,57,1193,0
+Practice,3,12,Practicetrial,Ba sound recording.wav,57,784,0
+Practice,3,13,Practicetrial,Ba sound recording.wav,57,783,0
+Practice,3,14,PracticeReady,Ba sound recording.wav,57,34,0
+Practice,3,15,PracticeRun,Ba sound recording.wav,onebutton,38,0
+Practice,3,16,centremouse,Ba sound recording.wav,centrebutton,45,0
+Practice,3,17,PracticeRun,Ba sound recording.wav,onebutton,32,0
+Practice,3,18,centremouse,Ba sound recording.wav,centrebutton,56,0
+Practice,3,19,Finishedpracticerun,Ba sound recording.wav,57,81,0
+InitialMonosyllabicSounds,4,1,catchtrial,Ba sound recording.wav,sevenbutton,47,0
+InitialMonosyllabicSounds,4,2,centremouse,Ba sound recording.wav,centrebutton,63,0
+InitialMonosyllabicSounds,4,3,Gasound,Ka backward.wav,fivebutton,37,0
+InitialMonosyllabicSounds,4,4,centremouse,Ka backward.wav,centrebutton,61,0
+InitialMonosyllabicSounds,4,5,Pabackwardsound,Ga backward.wav,onebutton,46,0
+InitialMonosyllabicSounds,4,6,centremouse,Ga backward.wav,centrebutton,53,0
+InitialMonosyllabicSounds,4,7,Pasound,Pa backward.wav,fivebutton,62,0
+InitialMonosyllabicSounds,4,8,centremouse,Pa backward.wav,centrebutton,36,0
+InitialMonosyllabicSounds,4,9,Gabackwardsound,Da sound recording.wav,fourbutton,56,0
+InitialMonosyllabicSounds,4,10,centremouse,Da sound recording.wav,centrebutton,36,0
+InitialMonosyllabicSounds,4,11,Dasound,Ga backward.wav,sixbutton,66,0
+InitialMonosyllabicSounds,4,12,centremouse,Ga backward.wav,centrebutton,54,0
+InitialMonosyllabicSounds,4,13,Kasound,Ga backward.wav,sevenbutton,51,0
+InitialMonosyllabicSounds,4,14,centremouse,Ga backward.wav,centrebutton,52,0
+InitialMonosyllabicSounds,4,15,Kabackwardsound,Da backward.wav,threebutton,41,0
+InitialMonosyllabicSounds,4,16,centremouse,Da backward.wav,centrebutton,47,0
+InitialMonosyllabicSounds,4,17,Kabackwardsound,Ta sound recording.wav,sevenbutton,51,0
+InitialMonosyllabicSounds,4,18,centremouse,Ta sound recording.wav,centrebutton,54,0
+InitialMonosyllabicSounds,4,19,Pabackwardsound,Ga sound recording.wav,sixbutton,51,0
+InitialMonosyllabicSounds,4,20,centremouse,Ga sound recording.wav,centrebutton,47,0
+InitialMonosyllabicSounds,4,21,Tabackwardsound,Ka sound recording.wav,zerobutton,34,0
+InitialMonosyllabicSounds,4,22,centremouse,Ka sound recording.wav,centrebutton,64,0
+InitialMonosyllabicSounds,4,23,Tabackwardsound,Da backward.wav,onebutton,54,0
+InitialMonosyllabicSounds,4,24,centremouse,Da backward.wav,centrebutton,52,0
+InitialMonosyllabicSounds,4,25,Pasound,Ga sound recording.wav,zerobutton,57,0
+InitialMonosyllabicSounds,4,26,centremouse,Ga sound recording.wav,centrebutton,76,0
+InitialMonosyllabicSounds,4,27,Tasound,Ga backward.wav,sixbutton,60,0
+InitialMonosyllabicSounds,4,28,centremouse,Ga backward.wav,centrebutton,62,0
+InitialMonosyllabicSounds,4,29,Tasound,Ka sound recording.wav,fourbutton,65,0
+InitialMonosyllabicSounds,4,30,centremouse,Ka sound recording.wav,centrebutton,65,0
+InitialMonosyllabicSounds,4,31,catchtrial,Ka sound recording.wav,fourbutton,58,0
+InitialMonosyllabicSounds,4,32,centremouse,Ka sound recording.wav,centrebutton,68,0
+InitialMonosyllabicSounds,4,33,Gabackwardsound,Ba sound recording.wav,sevenbutton,26,0
+InitialMonosyllabicSounds,4,34,centremouse,Ba sound recording.wav,centrebutton,47,0
+InitialMonosyllabicSounds,4,35,Gabackwardsound,Ka backward.wav,onebutton,37,0
+InitialMonosyllabicSounds,4,36,centremouse,Ka backward.wav,centrebutton,65,0
+InitialMonosyllabicSounds,4,37,Basound,Ta backward.wav,onebutton,57,0
+InitialMonosyllabicSounds,4,38,centremouse,Ta backward.wav,centrebutton,61,0
+InitialMonosyllabicSounds,4,39,Pabackwardsound,Ba sound recording.wav,sevenbutton,48,0
+InitialMonosyllabicSounds,4,40,centremouse,Ba sound recording.wav,centrebutton,68,0
+InitialMonosyllabicSounds,4,41,Kasound,Ba backward.wav,sevenbutton,66,0
+InitialMonosyllabicSounds,4,42,centremouse,Ba backward.wav,centrebutton,66,0
+InitialMonosyllabicSounds,4,43,Tabackwardsound,Ba sound recording.wav,zerobutton,42,0
+InitialMonosyllabicSounds,4,44,centremouse,Ba sound recording.wav,centrebutton,31,0
+InitialMonosyllabicSounds,4,45,Gabackwardsound,Ta backward.wav,twobutton,42,0
+InitialMonosyllabicSounds,4,46,centremouse,Ta backward.wav,centrebutton,64,0
+InitialMonosyllabicSounds,4,47,Dasound,Pa backward.wav,fourbutton,43,0
+InitialMonosyllabicSounds,4,48,centremouse,Pa backward.wav,centrebutton,55,0
+InitialMonosyllabicSounds,4,49,Gabackwardsound,Da backward.wav,fourbutton,41,0
+InitialMonosyllabicSounds,4,50,centremouse,Da backward.wav,centrebutton,51,0
+InitialMonosyllabicSounds,4,51,Dasound,Da sound recording.wav,threebutton,65,0
+InitialMonosyllabicSounds,4,52,centremouse,Da sound recording.wav,centrebutton,52,0
+InitialMonosyllabicSounds,4,53,Kabackwardsound,Ba backward.wav,sevenbutton,41,0
+InitialMonosyllabicSounds,4,54,centremouse,Ba backward.wav,centrebutton,67,0
+InitialMonosyllabicSounds,4,55,Kasound,Pa sound recording.wav,sevenbutton,65,0
+InitialMonosyllabicSounds,4,56,centremouse,Pa sound recording.wav,centrebutton,53,0
+InitialMonosyllabicSounds,4,57,Basound,Ka backward.wav,onebutton,51,0
+InitialMonosyllabicSounds,4,58,centremouse,Ka backward.wav,centrebutton,65,0
+InitialMonosyllabicSounds,4,59,Tabackwardsound,Da sound recording.wav,threebutton,40,0
+InitialMonosyllabicSounds,4,60,centremouse,Da sound recording.wav,centrebutton,54,0
+InitialMonosyllabicSounds,4,61,Tasound,Da backward.wav,zerobutton,52,0
+InitialMonosyllabicSounds,4,62,centremouse,Da backward.wav,centrebutton,50,0
+InitialMonosyllabicSounds,4,63,Pabackwardsound,Pa sound recording.wav,fourbutton,50,0
+InitialMonosyllabicSounds,4,64,centremouse,Pa sound recording.wav,centrebutton,55,0
+InitialMonosyllabicSounds,4,65,Kasound,Ka backward.wav,twobutton,30,0
+InitialMonosyllabicSounds,4,66,centremouse,Ka backward.wav,centrebutton,63,0
+InitialMonosyllabicSounds,4,67,Gabackwardsound,Ba backward.wav,sixbutton,61,0
+InitialMonosyllabicSounds,4,68,centremouse,Ba backward.wav,centrebutton,60,0
+InitialMonosyllabicSounds,4,69,Kabackwardsound,Da sound recording.wav,onebutton,56,0
+InitialMonosyllabicSounds,4,70,centremouse,Da sound recording.wav,centrebutton,66,0
+InitialMonosyllabicSounds,4,71,Pabackwardsound,Da sound recording.wav,sixbutton,48,0
+InitialMonosyllabicSounds,4,72,centremouse,Da sound recording.wav,centrebutton,65,0
+InitialMonosyllabicSounds,4,73,catchtrial,Da sound recording.wav,sixbutton,47,0
+InitialMonosyllabicSounds,4,74,centremouse,Da sound recording.wav,centrebutton,42,0
+InitialMonosyllabicSounds,4,75,Kabackwardsound,Ga sound recording.wav,sixbutton,45,0
+InitialMonosyllabicSounds,4,76,centremouse,Ga sound recording.wav,centrebutton,51,0
+InitialMonosyllabicSounds,4,77,Pasound,Ta backward.wav,twobutton,52,0
+InitialMonosyllabicSounds,4,78,centremouse,Ta backward.wav,centrebutton,54,0
+InitialMonosyllabicSounds,4,79,Dabackwardsound,Ba backward.wav,onebutton,55,0
+InitialMonosyllabicSounds,4,80,centremouse,Ba backward.wav,centrebutton,66,0
+InitialMonosyllabicSounds,4,81,Dasound,Ta sound recording.wav,sixbutton,35,0
+InitialMonosyllabicSounds,4,82,centremouse,Ta sound recording.wav,centrebutton,60,0
+InitialMonosyllabicSounds,4,83,Gabackwardsound,Pa sound recording.wav,threebutton,47,0
+InitialMonosyllabicSounds,4,84,centremouse,Pa sound recording.wav,centrebutton,47,0
+InitialMonosyllabicSounds,4,85,Dasound,Da backward.wav,zerobutton,42,0
+InitialMonosyllabicSounds,4,86,centremouse,Da backward.wav,centrebutton,50,0
+InitialMonosyllabicSounds,4,87,Babackwardsound,Ka sound recording.wav,zerobutton,51,0
+InitialMonosyllabicSounds,4,88,centremouse,Ka sound recording.wav,centrebutton,27,0
+InitialMonosyllabicSounds,4,89,Basound,Ba sound recording.wav,threebutton,54,0
+InitialMonosyllabicSounds,4,90,centremouse,Ba sound recording.wav,centrebutton,67,0
+InitialMonosyllabicSounds,4,91,catchtrial,Ba sound recording.wav,zerobutton,61,0
+InitialMonosyllabicSounds,4,92,centremouse,Ba sound recording.wav,centrebutton,57,0
+InitialMonosyllabicSounds,4,93,Dabackwardsound,Ka backward.wav,threebutton,28,0
+InitialMonosyllabicSounds,4,94,centremouse,Ka backward.wav,centrebutton,66,0
+InitialMonosyllabicSounds,4,95,Babackwardsound,Ba sound recording.wav,onebutton,30,0
+InitialMonosyllabicSounds,4,96,centremouse,Ba sound recording.wav,centrebutton,52,0
+InitialMonosyllabicSounds,4,97,Dabackwardsound,Da sound recording.wav,zerobutton,48,0
+InitialMonosyllabicSounds,4,98,centremouse,Da sound recording.wav,centrebutton,24,0
+InitialMonosyllabicSounds,4,99,Dasound,Ka backward.wav,fivebutton,73,0
+InitialMonosyllabicSounds,4,100,centremouse,Ka backward.wav,centrebutton,66,0
+InitialMonosyllabicSounds,4,101,Tabackwardsound,Ga sound recording.wav,zerobutton,39,0
+InitialMonosyllabicSounds,4,102,centremouse,Ga sound recording.wav,centrebutton,43,0
+InitialMonosyllabicSounds,4,103,Kasound,Ta backward.wav,onebutton,28,0
+InitialMonosyllabicSounds,4,104,centremouse,Ta backward.wav,centrebutton,64,0
+InitialMonosyllabicSounds,4,105,catchtrial,Ta backward.wav,sevenbutton,58,0
+InitialMonosyllabicSounds,4,106,centremouse,Ta backward.wav,centrebutton,66,0
+InitialMonosyllabicSounds,4,107,Gasound,Pa backward.wav,sixbutton,47,0
+InitialMonosyllabicSounds,4,108,centremouse,Pa backward.wav,centrebutton,51,0
+InitialMonosyllabicSounds,4,109,Kasound,Ba sound recording.wav,zerobutton,51,0
+InitialMonosyllabicSounds,4,110,centremouse,Ba sound recording.wav,centrebutton,62,0
+InitialMonosyllabicSounds,4,111,Gasound,Ba backward.wav,sevenbutton,46,0
+InitialMonosyllabicSounds,4,112,centremouse,Ba backward.wav,centrebutton,47,0
+InitialMonosyllabicSounds,4,113,catchtrial,Ba backward.wav,threebutton,61,0
+InitialMonosyllabicSounds,4,114,centremouse,Ba backward.wav,centrebutton,54,0
+InitialMonosyllabicSounds,4,115,Dabackwardsound,Ga backward.wav,sixbutton,45,0
+InitialMonosyllabicSounds,4,116,centremouse,Ga backward.wav,centrebutton,65,0
+InitialMonosyllabicSounds,4,117,Tasound,Ta backward.wav,threebutton,44,0
+InitialMonosyllabicSounds,4,118,centremouse,Ta backward.wav,centrebutton,45,0
+InitialMonosyllabicSounds,4,119,Basound,Ba backward.wav,twobutton,47,0
+InitialMonosyllabicSounds,4,120,centremouse,Ba backward.wav,centrebutton,48,0
+InitialMonosyllabicSounds,4,121,Kasound,Pa backward.wav,fivebutton,55,0
+InitialMonosyllabicSounds,4,122,centremouse,Pa backward.wav,centrebutton,43,0
+InitialMonosyllabicSounds,4,123,Kabackwardsound,Ba sound recording.wav,fourbutton,52,0
+InitialMonosyllabicSounds,4,124,centremouse,Ba sound recording.wav,centrebutton,50,0
+InitialMonosyllabicSounds,4,125,Pabackwardsound,Pa backward.wav,fourbutton,42,0
+InitialMonosyllabicSounds,4,126,centremouse,Pa backward.wav,centrebutton,66,0
+InitialMonosyllabicSounds,4,127,catchtrial,Pa backward.wav,sevenbutton,38,0
+InitialMonosyllabicSounds,4,128,centremouse,Pa backward.wav,centrebutton,53,0
+InitialMonosyllabicSounds,4,129,Dabackwardsound,Da backward.wav,threebutton,38,0
+InitialMonosyllabicSounds,4,130,centremouse,Da backward.wav,centrebutton,47,0
+InitialMonosyllabicSounds,4,131,Gasound,Ka sound recording.wav,threebutton,44,0
+InitialMonosyllabicSounds,4,132,centremouse,Ka sound recording.wav,centrebutton,45,0
+InitialMonosyllabicSounds,4,133,Gasound,Ga sound recording.wav,twobutton,50,0
+InitialMonosyllabicSounds,4,134,centremouse,Ga sound recording.wav,centrebutton,51,0
+InitialMonosyllabicSounds,4,135,Tabackwardsound,Ta sound recording.wav,fivebutton,55,0
+InitialMonosyllabicSounds,4,136,centremouse,Ta sound recording.wav,centrebutton,51,0
+InitialMonosyllabicSounds,4,137,Tabackwardsound,Ga backward.wav,fivebutton,51,0
+InitialMonosyllabicSounds,4,138,centremouse,Ga backward.wav,centrebutton,52,0
+InitialMonosyllabicSounds,4,139,Babackwardsound,Ta sound recording.wav,zerobutton,61,0
+InitialMonosyllabicSounds,4,140,centremouse,Ta sound recording.wav,centrebutton,64,0
+InitialMonosyllabicSounds,4,141,Gasound,Ba sound recording.wav,fivebutton,40,0
+InitialMonosyllabicSounds,4,142,centremouse,Ba sound recording.wav,centrebutton,72,0
+InitialMonosyllabicSounds,4,143,Dabackwardsound,Pa backward.wav,fivebutton,41,0
+InitialMonosyllabicSounds,4,144,centremouse,Pa backward.wav,centrebutton,53,0
+InitialMonosyllabicSounds,4,145,Tabackwardsound,Ta backward.wav,sevenbutton,47,0
+InitialMonosyllabicSounds,4,146,centremouse,Ta backward.wav,centrebutton,52,0
+InitialMonosyllabicSounds,4,147,Pasound,Da sound recording.wav,twobutton,41,0
+InitialMonosyllabicSounds,4,148,centremouse,Da sound recording.wav,centrebutton,59,0
+InitialMonosyllabicSounds,4,149,Kabackwardsound,Pa sound recording.wav,sevenbutton,54,0
+InitialMonosyllabicSounds,4,150,centremouse,Pa sound recording.wav,centrebutton,56,0
+InitialMonosyllabicSounds,4,151,catchtrial,Pa sound recording.wav,threebutton,95,0
+InitialMonosyllabicSounds,4,152,centremouse,Pa sound recording.wav,centrebutton,57,0
+InitialMonosyllabicSounds,4,153,Gasound,Da backward.wav,threebutton,48,0
+InitialMonosyllabicSounds,4,154,centremouse,Da backward.wav,centrebutton,72,0
+InitialMonosyllabicSounds,4,155,Dabackwardsound,Ka sound recording.wav,sevenbutton,45,0
+InitialMonosyllabicSounds,4,156,centremouse,Ka sound recording.wav,centrebutton,68,0
+InitialMonosyllabicSounds,4,157,Dabackwardsound,Ba sound recording.wav,zerobutton,68,0
+InitialMonosyllabicSounds,4,158,centremouse,Ba sound recording.wav,centrebutton,46,0
+InitialMonosyllabicSounds,4,159,Basound,Ga sound recording.wav,sevenbutton,67,0
+InitialMonosyllabicSounds,4,160,centremouse,Ga sound recording.wav,centrebutton,49,0
+InitialMonosyllabicSounds,4,161,Dabackwardsound,Ga sound recording.wav,sevenbutton,43,0
+InitialMonosyllabicSounds,4,162,centremouse,Ga sound recording.wav,centrebutton,51,0
+InitialMonosyllabicSounds,4,163,Babackwardsound,Ka backward.wav,sevenbutton,46,0
+InitialMonosyllabicSounds,4,164,centremouse,Ka backward.wav,centrebutton,50,0
+InitialMonosyllabicSounds,4,165,catchtrial,Ka backward.wav,onebutton,63,0
+InitialMonosyllabicSounds,4,166,centremouse,Ka backward.wav,centrebutton,41,0
+InitialMonosyllabicSounds,4,167,Babackwardsound,Ta backward.wav,fivebutton,64,0
+InitialMonosyllabicSounds,4,168,centremouse,Ta backward.wav,centrebutton,63,0
+InitialMonosyllabicSounds,4,169,Kabackwardsound,Ka backward.wav,threebutton,33,0
+InitialMonosyllabicSounds,4,170,centremouse,Ka backward.wav,centrebutton,61,0
+InitialMonosyllabicSounds,4,171,Basound,Ta sound recording.wav,onebutton,50,0
+InitialMonosyllabicSounds,4,172,centremouse,Ta sound recording.wav,centrebutton,54,0
+InitialMonosyllabicSounds,4,173,Tasound,Pa backward.wav,onebutton,48,0
+InitialMonosyllabicSounds,4,174,centremouse,Pa backward.wav,centrebutton,61,0
+InitialMonosyllabicSounds,4,175,Kasound,Ta sound recording.wav,onebutton,54,0
+InitialMonosyllabicSounds,4,176,centremouse,Ta sound recording.wav,centrebutton,56,0
+InitialMonosyllabicSounds,4,177,Kabackwardsound,Pa backward.wav,sevenbutton,40,0
+InitialMonosyllabicSounds,4,178,centremouse,Pa backward.wav,centrebutton,60,0
+InitialMonosyllabicSounds,4,179,Gabackwardsound,Ga sound recording.wav,threebutton,45,0
+InitialMonosyllabicSounds,4,180,centremouse,Ga sound recording.wav,centrebutton,60,0
+InitialMonosyllabicSounds,4,181,Pasound,Ba sound recording.wav,threebutton,45,0
+InitialMonosyllabicSounds,4,182,centremouse,Ba sound recording.wav,centrebutton,47,0
+InitialMonosyllabicSounds,4,183,Tasound,Ka backward.wav,onebutton,60,0
+InitialMonosyllabicSounds,4,184,centremouse,Ka backward.wav,centrebutton,65,0
+InitialMonosyllabicSounds,4,185,Basound,Pa backward.wav,fivebutton,44,0
+InitialMonosyllabicSounds,4,186,centremouse,Pa backward.wav,centrebutton,60,0
+InitialMonosyllabicSounds,4,187,Dabackwardsound,Ta sound recording.wav,sevenbutton,47,0
+InitialMonosyllabicSounds,4,188,centremouse,Ta sound recording.wav,centrebutton,66,0
+InitialMonosyllabicSounds,4,189,Basound,Da sound recording.wav,onebutton,33,0
+InitialMonosyllabicSounds,4,190,centremouse,Da sound recording.wav,centrebutton,52,0
+InitialMonosyllabicSounds,4,191,Tasound,Ta sound recording.wav,fivebutton,51,0
+InitialMonosyllabicSounds,4,192,centremouse,Ta sound recording.wav,centrebutton,60,0
+InitialMonosyllabicSounds,4,193,Pabackwardsound,Ka backward.wav,fivebutton,32,0
+InitialMonosyllabicSounds,4,194,centremouse,Ka backward.wav,centrebutton,61,0
+InitialMonosyllabicSounds,4,195,Babackwardsound,Ga backward.wav,twobutton,41,0
+InitialMonosyllabicSounds,4,196,centremouse,Ga backward.wav,centrebutton,63,0
+InitialMonosyllabicSounds,4,197,Pasound,Ka sound recording.wav,fourbutton,45,0
+InitialMonosyllabicSounds,4,198,centremouse,Ka sound recording.wav,centrebutton,61,0
+InitialMonosyllabicSounds,4,199,Gabackwardsound,Ka sound recording.wav,threebutton,56,0
+InitialMonosyllabicSounds,4,200,centremouse,Ka sound recording.wav,centrebutton,51,0
+InitialMonosyllabicSounds,4,201,Kasound,Da backward.wav,zerobutton,44,0
+InitialMonosyllabicSounds,4,202,centremouse,Da backward.wav,centrebutton,47,0
+InitialMonosyllabicSounds,4,203,Kabackwardsound,Ga backward.wav,fivebutton,50,0
+InitialMonosyllabicSounds,4,204,centremouse,Ga backward.wav,centrebutton,41,0
+InitialMonosyllabicSounds,4,205,Babackwardsound,Ga sound recording.wav,fivebutton,46,0
+InitialMonosyllabicSounds,4,206,centremouse,Ga sound recording.wav,centrebutton,65,0
+InitialMonosyllabicSounds,4,207,Gabackwardsound,Pa backward.wav,fourbutton,55,0
+InitialMonosyllabicSounds,4,208,centremouse,Pa backward.wav,centrebutton,53,0
+InitialMonosyllabicSounds,4,209,Tabackwardsound,Pa sound recording.wav,zerobutton,62,0
+InitialMonosyllabicSounds,4,210,centremouse,Pa sound recording.wav,centrebutton,47,0
+InitialMonosyllabicSounds,4,211,Pabackwardsound,Ta backward.wav,fourbutton,37,0
+InitialMonosyllabicSounds,4,212,centremouse,Ta backward.wav,centrebutton,66,0
+InitialMonosyllabicSounds,4,213,catchtrial,Ta backward.wav,sevenbutton,34,0
+InitialMonosyllabicSounds,4,214,centremouse,Ta backward.wav,centrebutton,65,0
+InitialMonosyllabicSounds,4,215,Tasound,Pa sound recording.wav,onebutton,50,0
+InitialMonosyllabicSounds,4,216,centremouse,Pa sound recording.wav,centrebutton,51,0
+InitialMonosyllabicSounds,4,217,Basound,Ka sound recording.wav,sixbutton,44,0
+InitialMonosyllabicSounds,4,218,centremouse,Ka sound recording.wav,centrebutton,61,0
+InitialMonosyllabicSounds,4,219,Kasound,Ga sound recording.wav,sixbutton,55,0
+InitialMonosyllabicSounds,4,220,centremouse,Ga sound recording.wav,centrebutton,58,0
+InitialMonosyllabicSounds,4,221,catchtrial,Ga sound recording.wav,onebutton,53,0
+InitialMonosyllabicSounds,4,222,centremouse,Ga sound recording.wav,centrebutton,63,0
+InitialMonosyllabicSounds,4,223,Pabackwardsound,Ba backward.wav,onebutton,51,0
+InitialMonosyllabicSounds,4,224,centremouse,Ba backward.wav,centrebutton,53,0
+InitialMonosyllabicSounds,4,225,Tabackwardsound,Ba backward.wav,threebutton,52,0
+InitialMonosyllabicSounds,4,226,centremouse,Ba backward.wav,centrebutton,69,0
+InitialMonosyllabicSounds,4,227,Dasound,Ta backward.wav,onebutton,51,0
+InitialMonosyllabicSounds,4,228,centremouse,Ta backward.wav,centrebutton,57,0
+InitialMonosyllabicSounds,4,229,Pabackwardsound,Ta sound recording.wav,twobutton,30,0
+InitialMonosyllabicSounds,4,230,centremouse,Ta sound recording.wav,centrebutton,30,0
+InitialMonosyllabicSounds,4,231,Babackwardsound,Da sound recording.wav,twobutton,32,0
+InitialMonosyllabicSounds,4,232,centremouse,Da sound recording.wav,centrebutton,57,0
+InitialMonosyllabicSounds,4,233,Pasound,Ba backward.wav,sixbutton,51,0
+InitialMonosyllabicSounds,4,234,centremouse,Ba backward.wav,centrebutton,61,0
+InitialMonosyllabicSounds,4,235,Pasound,Ka backward.wav,threebutton,58,0
+InitialMonosyllabicSounds,4,236,centremouse,Ka backward.wav,centrebutton,50,0
+InitialMonosyllabicSounds,4,237,Dasound,Pa sound recording.wav,threebutton,48,0
+InitialMonosyllabicSounds,4,238,centremouse,Pa sound recording.wav,centrebutton,61,0
+InitialMonosyllabicSounds,4,239,Gasound,Ta sound recording.wav,fourbutton,53,0
+InitialMonosyllabicSounds,4,240,centremouse,Ta sound recording.wav,centrebutton,58,0
+InitialMonosyllabicSounds,4,241,Pasound,Da backward.wav,onebutton,47,0
+InitialMonosyllabicSounds,4,242,centremouse,Da backward.wav,centrebutton,61,0
+InitialMonosyllabicSounds,4,243,Tasound,Ba backward.wav,fourbutton,41,0
+InitialMonosyllabicSounds,4,244,centremouse,Ba backward.wav,centrebutton,62,0
+InitialMonosyllabicSounds,4,245,Tasound,Ga sound recording.wav,fivebutton,51,0
+InitialMonosyllabicSounds,4,246,centremouse,Ga sound recording.wav,centrebutton,62,0
+InitialMonosyllabicSounds,4,247,Babackwardsound,Da backward.wav,twobutton,42,0
+InitialMonosyllabicSounds,4,248,centremouse,Da backward.wav,centrebutton,55,0
+InitialMonosyllabicSounds,4,249,Pasound,Ta sound recording.wav,sevenbutton,38,0
+InitialMonosyllabicSounds,4,250,centremouse,Ta sound recording.wav,centrebutton,45,0
+InitialMonosyllabicSounds,4,251,Dasound,Ba backward.wav,twobutton,41,0
+InitialMonosyllabicSounds,4,252,centremouse,Ba backward.wav,centrebutton,45,0
+InitialMonosyllabicSounds,4,253,Dabackwardsound,Ta backward.wav,threebutton,10,0
+InitialMonosyllabicSounds,4,254,centremouse,Ta backward.wav,centrebutton,40,0
+InitialMonosyllabicSounds,4,255,Pasound,Ga backward.wav,sevenbutton,49,0
+InitialMonosyllabicSounds,4,256,centremouse,Ga backward.wav,centrebutton,56,0
+InitialMonosyllabicSounds,4,257,Tabackwardsound,Pa backward.wav,fourbutton,32,0
+InitialMonosyllabicSounds,4,258,centremouse,Pa backward.wav,centrebutton,66,0
+InitialMonosyllabicSounds,4,259,Gabackwardsound,Ga backward.wav,fourbutton,66,0
+InitialMonosyllabicSounds,4,260,centremouse,Ga backward.wav,centrebutton,43,0
+InitialMonosyllabicSounds,4,261,Kabackwardsound,Ka sound recording.wav,threebutton,59,0
+InitialMonosyllabicSounds,4,262,centremouse,Ka sound recording.wav,centrebutton,72,0
+InitialMonosyllabicSounds,4,263,Babackwardsound,Ba backward.wav,sevenbutton,50,0
+InitialMonosyllabicSounds,4,264,centremouse,Ba backward.wav,centrebutton,71,0
+InitialMonosyllabicSounds,4,265,Basound,Pa sound recording.wav,threebutton,55,0
+InitialMonosyllabicSounds,4,266,centremouse,Pa sound recording.wav,centrebutton,56,0
+InitialMonosyllabicSounds,4,267,Dasound,Ga sound recording.wav,fourbutton,38,0
+InitialMonosyllabicSounds,4,268,centremouse,Ga sound recording.wav,centrebutton,52,0
+InitialMonosyllabicSounds,4,269,Gasound,Da sound recording.wav,sixbutton,47,0
+InitialMonosyllabicSounds,4,270,centremouse,Da sound recording.wav,centrebutton,68,0
+InitialMonosyllabicSounds,4,271,Tasound,Ba sound recording.wav,onebutton,54,0
+InitialMonosyllabicSounds,4,272,centremouse,Ba sound recording.wav,centrebutton,56,0
+InitialMonosyllabicSounds,4,273,Tasound,Da sound recording.wav,onebutton,34,0
+InitialMonosyllabicSounds,4,274,centremouse,Da sound recording.wav,centrebutton,54,0
+InitialMonosyllabicSounds,4,275,Kasound,Ka sound recording.wav,fivebutton,31,0
+InitialMonosyllabicSounds,4,276,centremouse,Ka sound recording.wav,centrebutton,52,0
+InitialMonosyllabicSounds,4,277,Babackwardsound,Pa sound recording.wav,fivebutton,41,0
+InitialMonosyllabicSounds,4,278,centremouse,Pa sound recording.wav,centrebutton,31,0
+InitialMonosyllabicSounds,4,279,Kasound,Da sound recording.wav,threebutton,40,0
+InitialMonosyllabicSounds,4,280,centremouse,Da sound recording.wav,centrebutton,44,0
+InitialMonosyllabicSounds,4,281,Basound,Da backward.wav,threebutton,44,0
+InitialMonosyllabicSounds,4,282,centremouse,Da backward.wav,centrebutton,50,0
+InitialMonosyllabicSounds,4,283,Dasound,Ba sound recording.wav,twobutton,44,0
+InitialMonosyllabicSounds,4,284,centremouse,Ba sound recording.wav,centrebutton,50,0
+InitialMonosyllabicSounds,4,285,Dasound,Ka sound recording.wav,onebutton,36,0
+InitialMonosyllabicSounds,4,286,centremouse,Ka sound recording.wav,centrebutton,75,0
+InitialMonosyllabicSounds,4,287,catchtrial,Ka sound recording.wav,sixbutton,67,0
+InitialMonosyllabicSounds,4,288,centremouse,Ka sound recording.wav,centrebutton,63,0
+InitialMonosyllabicSounds,4,289,Basound,Ga backward.wav,onebutton,52,0
+InitialMonosyllabicSounds,4,290,centremouse,Ga backward.wav,centrebutton,41,0
+InitialMonosyllabicSounds,4,291,Gasound,Pa sound recording.wav,zerobutton,40,0
+InitialMonosyllabicSounds,4,292,centremouse,Pa sound recording.wav,centrebutton,59,0
+InitialMonosyllabicSounds,4,293,Babackwardsound,Pa backward.wav,onebutton,45,0
+InitialMonosyllabicSounds,4,294,centremouse,Pa backward.wav,centrebutton,58,0
+InitialMonosyllabicSounds,4,295,Pabackwardsound,Ka sound recording.wav,fourbutton,51,0
+InitialMonosyllabicSounds,4,296,centremouse,Ka sound recording.wav,centrebutton,57,0
+InitialMonosyllabicSounds,4,297,Gabackwardsound,Ta sound recording.wav,threebutton,42,0
+InitialMonosyllabicSounds,4,298,centremouse,Ta sound recording.wav,centrebutton,57,0
+InitialMonosyllabicSounds,4,299,Gasound,Ta backward.wav,fourbutton,56,0
+InitialMonosyllabicSounds,4,300,centremouse,Ta backward.wav,centrebutton,70,0
+InitialMonosyllabicSounds,4,301,Pabackwardsound,Da backward.wav,twobutton,51,0
+InitialMonosyllabicSounds,4,302,centremouse,Da backward.wav,centrebutton,67,0
+InitialMonosyllabicSounds,4,303,catchtrial,Da backward.wav,onebutton,68,0
+InitialMonosyllabicSounds,4,304,centremouse,Da backward.wav,centrebutton,66,0
+InitialMonosyllabicSounds,4,305,Dabackwardsound,Pa sound recording.wav,twobutton,52,0
+InitialMonosyllabicSounds,4,306,centremouse,Pa sound recording.wav,centrebutton,41,0
+InitialMonosyllabicSounds,4,307,Kabackwardsound,Ta backward.wav,fourbutton,50,0
+InitialMonosyllabicSounds,4,308,centremouse,Ta backward.wav,centrebutton,69,0
+InitialMonosyllabicSounds,4,309,Tabackwardsound,Ka backward.wav,twobutton,48,0
+InitialMonosyllabicSounds,4,310,centremouse,Ka backward.wav,centrebutton,50,0
+InitialMonosyllabicSounds,4,311,Pasound,Pa sound recording.wav,sevenbutton,51,0
+InitialMonosyllabicSounds,4,312,centremouse,Pa sound recording.wav,centrebutton,43,0
+InitialMonosyllabicSounds,4,313,Gasound,Ga backward.wav,threebutton,43,0
+InitialMonosyllabicSounds,4,314,centremouse,Ga backward.wav,centrebutton,51,0
